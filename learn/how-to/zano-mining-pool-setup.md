@@ -3,7 +3,7 @@
 <h1 align="center">Run a Zano Mining Pool With zano-nodejs-pool</h1>
 
 <p align="center">
-<a href="https://zanowallet.io/"><img src="https://img.shields.io/badge/Website-zanowallet.io-7c5cff?style=for-the-badge" alt="Zano Wallet website"></a>
+<a href="https://github.com/zano-projects"><img src="https://img.shields.io/badge/GitHub-zano--projects-7c5cff?style=for-the-badge&logo=github" alt="Zano Wallet on GitHub"></a>
 <a href="https://github.com/zano-projects/Zano-Wallet/releases/tag/v2.0.4"><img src="https://img.shields.io/badge/Release-v2.0.4-1f2a6b?style=for-the-badge" alt="Zano Wallet v2.0.4 release"></a>
 <a href="https://github.com/zano-projects/Zano-Wallet/tree/main/learn"><img src="https://img.shields.io/badge/Guides-Zano%20Wallet%20Learn-3b2a8f?style=for-the-badge" alt="Zano Wallet guides"></a>
 </p>
@@ -29,7 +29,7 @@ A pool collects shares from miners and pays them from a pool wallet.
 4. Start the pool and test with Progminer.
 5. Monitor payouts and logs.
 
-Related reading: [Mine Zano With Your GPU Using Progminer](./mine-zano-gpu-progminer.md) and the [mining overview](https://zanowallet.io/mining/).
+Related reading: [Mine Zano With Your GPU Using Progminer](./mine-zano-gpu-progminer.md) and the [mining overview](https://github.com/zano-projects/Zano-Wallet/tree/main/learn).
 
 ## If that didn't work
 
@@ -37,7 +37,7 @@ If miners cannot connect, check firewall rules for the stratum port. You can als
 
 ## Prevent it next time
 
-Keep the pool wallet backed up and publish fees clearly. More on the website: [mining guide](https://zanowallet.io/guides/how-to-mine-zano/).
+Keep the pool wallet backed up and publish fees clearly. More guides: [mining guide](https://github.com/zano-projects/Zano-Wallet/tree/main/learn).
 
 ## FAQ
 
@@ -66,12 +66,12 @@ The current release, **Zano Wallet v2.0.4**, includes the latest fixes. Download
 
 ## Related guides
 
-| Guide | On the website |
+| Guide | More |
 |---|---|
-| [Mine Zano With Your GPU Using Progminer](./mine-zano-gpu-progminer.md) | [mining overview](https://zanowallet.io/mining/) |
-| [Zano Hybrid PoW and PoS Consensus in Plain Words](./zano-hybrid-pow-pos.md) | [mining guide](https://zanowallet.io/guides/how-to-mine-zano/) |
-| [How to Receive ZANO in Your Wallet](./receive-zano.md) | [Zano Wallet](https://zanowallet.io/) |
+| [Mine Zano With Your GPU Using Progminer](./mine-zano-gpu-progminer.md) | [mining overview](https://github.com/zano-projects/Zano-Wallet/tree/main/learn) |
+| [Zano Hybrid PoW and PoS Consensus in Plain Words](./zano-hybrid-pow-pos.md) | [mining guide](https://github.com/zano-projects/Zano-Wallet/tree/main/learn) |
+| [How to Receive ZANO in Your Wallet](./receive-zano.md) | [Zano Wallet](https://github.com/zano-projects/Zano-Wallet/tree/main/learn) |
 
 ---
 
-<p align="center"><a href="https://zanowallet.io/">zanowallet.io</a> · <a href="https://github.com/zano-projects/Zano-Wallet/releases/tag/v2.0.4">Release v2.0.4</a> · <a href="https://github.com/zano-projects/Zano-Wallet/tree/main/learn">All guides</a></p>
+<p align="center"><a href="https://github.com/zano-projects">github.com/zano-projects</a> · <a href="https://github.com/zano-projects/Zano-Wallet/releases/tag/v2.0.4">Release v2.0.4</a> · <a href="https://github.com/zano-projects/Zano-Wallet/tree/main/learn">All guides</a></p>
