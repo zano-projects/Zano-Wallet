@@ -3,7 +3,7 @@
 <h1 align="center">How to Buy ZANO and Move It to Your Wallet</h1>
 
 <p align="center">
-<a href="https://zanowallet.io/"><img src="https://img.shields.io/badge/Website-zanowallet.io-7c5cff?style=for-the-badge" alt="Zano Wallet website"></a>
+<a href="https://github.com/zano-projects"><img src="https://img.shields.io/badge/GitHub-zano--projects-7c5cff?style=for-the-badge&logo=github" alt="Zano Wallet on GitHub"></a>
 <a href="https://github.com/zano-projects/Zano-Wallet/releases/tag/v2.0.4"><img src="https://img.shields.io/badge/Release-v2.0.4-1f2a6b?style=for-the-badge" alt="Zano Wallet v2.0.4 release"></a>
 <a href="https://github.com/zano-projects/Zano-Wallet/tree/main/learn"><img src="https://img.shields.io/badge/Guides-Zano%20Wallet%20Learn-3b2a8f?style=for-the-badge" alt="Zano Wallet guides"></a>
 </p>
@@ -29,7 +29,7 @@ Coins on exchanges are held by the exchange; your wallet gives you control.
 4. Withdraw to your address.
 5. Confirm the deposit in history.
 
-Related reading: [How to Receive ZANO in Your Wallet](./receive-zano.md) and the [buy Zano](https://zanowallet.io/buy-zano/).
+Related reading: [How to Receive ZANO in Your Wallet](./receive-zano.md) and the [buy Zano](https://github.com/zano-projects/Zano-Wallet/tree/main/learn).
 
 ## If that didn't work
 
@@ -37,7 +37,7 @@ If a withdrawal is missing, check the transaction ID and your sync. You can also
 
 ## Prevent it next time
 
-Send a small test withdrawal first. More on the website: [Zano price](https://zanowallet.io/zano-price/).
+Send a small test withdrawal first. More guides: [Zano price](https://github.com/zano-projects/Zano-Wallet/tree/main/learn).
 
 ## FAQ
 
@@ -66,12 +66,12 @@ The current release, **Zano Wallet v2.0.4**, includes the latest fixes. Download
 
 ## Related guides
 
-| Guide | On the website |
+| Guide | More |
 |---|---|
-| [How to Receive ZANO in Your Wallet](./receive-zano.md) | [buy Zano](https://zanowallet.io/buy-zano/) |
-| [Using Zano Wallet Without KYC](./no-kyc-zano-wallet.md) | [Zano price](https://zanowallet.io/zano-price/) |
-| [Atomic Swaps With Zano](./zano-atomic-swaps.md) | [exchange options](https://zanowallet.io/exchange/) |
+| [How to Receive ZANO in Your Wallet](./receive-zano.md) | [buy Zano](https://github.com/zano-projects/Zano-Wallet/tree/main/learn) |
+| [Using Zano Wallet Without KYC](./no-kyc-zano-wallet.md) | [Zano price](https://github.com/zano-projects/Zano-Wallet/tree/main/learn) |
+| [Atomic Swaps With Zano](./zano-atomic-swaps.md) | [exchange options](https://github.com/zano-projects/Zano-Wallet/tree/main/learn) |
 
 ---
 
-<p align="center"><a href="https://zanowallet.io/">zanowallet.io</a> · <a href="https://github.com/zano-projects/Zano-Wallet/releases/tag/v2.0.4">Release v2.0.4</a> · <a href="https://github.com/zano-projects/Zano-Wallet/tree/main/learn">All guides</a></p>
+<p align="center"><a href="https://github.com/zano-projects">github.com/zano-projects</a> · <a href="https://github.com/zano-projects/Zano-Wallet/releases/tag/v2.0.4">Release v2.0.4</a> · <a href="https://github.com/zano-projects/Zano-Wallet/tree/main/learn">All guides</a></p>
