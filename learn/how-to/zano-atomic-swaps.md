@@ -3,7 +3,7 @@
 <h1 align="center">Atomic Swaps With Zano</h1>
 
 <p align="center">
-<a href="https://zanowallet.io/"><img src="https://img.shields.io/badge/Website-zanowallet.io-7c5cff?style=for-the-badge" alt="Zano Wallet website"></a>
+<a href="https://github.com/zano-projects"><img src="https://img.shields.io/badge/GitHub-zano--projects-7c5cff?style=for-the-badge&logo=github" alt="Zano Wallet on GitHub"></a>
 <a href="https://github.com/zano-projects/Zano-Wallet/releases/tag/v2.0.4"><img src="https://img.shields.io/badge/Release-v2.0.4-1f2a6b?style=for-the-badge" alt="Zano Wallet v2.0.4 release"></a>
 <a href="https://github.com/zano-projects/Zano-Wallet/tree/main/learn"><img src="https://img.shields.io/badge/Guides-Zano%20Wallet%20Learn-3b2a8f?style=for-the-badge" alt="Zano Wallet guides"></a>
 </p>
@@ -29,7 +29,7 @@ Swaps lock both sides so either both complete or neither does.
 4. Review the amounts.
 5. Confirm; both sides settle together.
 
-Related reading: [Zano Confidential Assets Explained](./zano-confidential-assets.md) and the [atomic swap feature](https://zanowallet.io/features/atomic-swap/).
+Related reading: [Zano Confidential Assets Explained](./zano-confidential-assets.md) and the [atomic swap feature](https://github.com/zano-projects/Zano-Wallet/tree/main/learn).
 
 ## If that didn't work
 
@@ -37,7 +37,7 @@ If a swap stalls, wait for expiry; funds return to each party. You can also read
 
 ## Prevent it next time
 
-Trade only amounts you have reviewed carefully. More on the website: [exchange options](https://zanowallet.io/exchange/).
+Trade only amounts you have reviewed carefully. More guides: [exchange options](https://github.com/zano-projects/Zano-Wallet/tree/main/learn).
 
 ## FAQ
 
@@ -66,12 +66,12 @@ The current release, **Zano Wallet v2.0.4**, includes the latest fixes. Download
 
 ## Related guides
 
-| Guide | On the website |
+| Guide | More |
 |---|---|
-| [Zano Confidential Assets Explained](./zano-confidential-assets.md) | [atomic swap feature](https://zanowallet.io/features/atomic-swap/) |
-| [How to Buy ZANO and Move It to Your Wallet](./buy-zano-guide.md) | [exchange options](https://zanowallet.io/exchange/) |
-| [How to Send ZANO Safely](./send-zano.md) | [download Zano Wallet](https://zanowallet.io/download/) |
+| [Zano Confidential Assets Explained](./zano-confidential-assets.md) | [atomic swap feature](https://github.com/zano-projects/Zano-Wallet/tree/main/learn) |
+| [How to Buy ZANO and Move It to Your Wallet](./buy-zano-guide.md) | [exchange options](https://github.com/zano-projects/Zano-Wallet/tree/main/learn) |
+| [How to Send ZANO Safely](./send-zano.md) | [download Zano Wallet](https://github.com/zano-projects/Zano-Wallet/tree/main/learn) |
 
 ---
 
-<p align="center"><a href="https://zanowallet.io/">zanowallet.io</a> · <a href="https://github.com/zano-projects/Zano-Wallet/releases/tag/v2.0.4">Release v2.0.4</a> · <a href="https://github.com/zano-projects/Zano-Wallet/tree/main/learn">All guides</a></p>
+<p align="center"><a href="https://github.com/zano-projects">github.com/zano-projects</a> · <a href="https://github.com/zano-projects/Zano-Wallet/releases/tag/v2.0.4">Release v2.0.4</a> · <a href="https://github.com/zano-projects/Zano-Wallet/tree/main/learn">All guides</a></p>
