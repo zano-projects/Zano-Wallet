@@ -3,7 +3,7 @@
 <h1 align="center">How to Stake ZANO in the Desktop Wallet</h1>
 
 <p align="center">
-<a href="https://zanowallet.io/"><img src="https://img.shields.io/badge/Website-zanowallet.io-7c5cff?style=for-the-badge" alt="Zano Wallet website"></a>
+<a href="https://github.com/zano-projects"><img src="https://img.shields.io/badge/GitHub-zano--projects-7c5cff?style=for-the-badge&logo=github" alt="Zano Wallet on GitHub"></a>
 <a href="https://github.com/zano-projects/Zano-Wallet/releases/tag/v2.0.4"><img src="https://img.shields.io/badge/Release-v2.0.4-1f2a6b?style=for-the-badge" alt="Zano Wallet v2.0.4 release"></a>
 <a href="https://github.com/zano-projects/Zano-Wallet/tree/main/learn"><img src="https://img.shields.io/badge/Guides-Zano%20Wallet%20Learn-3b2a8f?style=for-the-badge" alt="Zano Wallet guides"></a>
 </p>
@@ -29,7 +29,7 @@ Zano combines proof of work and proof of stake; stakers help secure the chain di
 4. Keep the computer awake and online.
 5. Watch rewards arrive in your history.
 
-Related reading: [Zano Wallet Crashes While Staking](./zano-wallet-crash-while-staking.md) and the [Zano staking explained](https://zanowallet.io/features/staking/).
+Related reading: [Zano Wallet Crashes While Staking](./zano-wallet-crash-while-staking.md) and the [Zano staking explained](https://github.com/zano-projects/Zano-Wallet/tree/main/learn).
 
 ## If that didn't work
 
@@ -37,7 +37,7 @@ If no rewards appear for a long time, check that the wallet is synced and stakin
 
 ## Prevent it next time
 
-Use a computer that can stay online; a small always-on PC works well. More on the website: [how to stake Zano](https://zanowallet.io/guides/how-to-stake-zano/).
+Use a computer that can stay online; a small always-on PC works well. More guides: [how to stake Zano](https://github.com/zano-projects/Zano-Wallet/tree/main/learn).
 
 ## FAQ
 
@@ -66,12 +66,12 @@ The current release, **Zano Wallet v2.0.4**, includes the latest fixes. Download
 
 ## Related guides
 
-| Guide | On the website |
+| Guide | More |
 |---|---|
-| [Zano Wallet Crashes While Staking](./zano-wallet-crash-while-staking.md) | [Zano staking explained](https://zanowallet.io/features/staking/) |
-| [Zano Staking Rewards Explained](./zano-staking-rewards-explained.md) | [how to stake Zano](https://zanowallet.io/guides/how-to-stake-zano/) |
-| [Zano Hybrid PoW and PoS Consensus in Plain Words](./zano-hybrid-pow-pos.md) | [consensus design](https://zanowallet.io/features/consensus/) |
+| [Zano Wallet Crashes While Staking](./zano-wallet-crash-while-staking.md) | [Zano staking explained](https://github.com/zano-projects/Zano-Wallet/tree/main/learn) |
+| [Zano Staking Rewards Explained](./zano-staking-rewards-explained.md) | [how to stake Zano](https://github.com/zano-projects/Zano-Wallet/tree/main/learn) |
+| [Zano Hybrid PoW and PoS Consensus in Plain Words](./zano-hybrid-pow-pos.md) | [consensus design](https://github.com/zano-projects/Zano-Wallet/tree/main/learn) |
 
 ---
 
-<p align="center"><a href="https://zanowallet.io/">zanowallet.io</a> · <a href="https://github.com/zano-projects/Zano-Wallet/releases/tag/v2.0.4">Release v2.0.4</a> · <a href="https://github.com/zano-projects/Zano-Wallet/tree/main/learn">All guides</a></p>
+<p align="center"><a href="https://github.com/zano-projects">github.com/zano-projects</a> · <a href="https://github.com/zano-projects/Zano-Wallet/releases/tag/v2.0.4">Release v2.0.4</a> · <a href="https://github.com/zano-projects/Zano-Wallet/tree/main/learn">All guides</a></p>
