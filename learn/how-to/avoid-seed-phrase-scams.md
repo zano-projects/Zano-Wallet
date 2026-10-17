@@ -1,11 +1,11 @@
-<p align="center"><img src="https://raw.githubusercontent.com/zano-projects/Zano-Wallet/main/learn/assets/05-self-custody-security.webp" alt="Zano Wallet - Seed Phrase Scams Targeting Zano Users" width="100%"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/zano-projects/Zano-Wallet/master/learn/assets/05-self-custody-security.webp" alt="Zano Wallet - Seed Phrase Scams Targeting Zano Users" width="100%"></p>
 
 <h1 align="center">Seed Phrase Scams Targeting Zano Users</h1>
 
 <p align="center">
 <a href="https://github.com/zano-projects"><img src="https://img.shields.io/badge/GitHub-zano--projects-7c5cff?style=for-the-badge&logo=github" alt="Zano Wallet on GitHub"></a>
 <a href="https://github.com/zano-projects/Zano-Wallet/releases/tag/v2.0.4"><img src="https://img.shields.io/badge/Release-v2.0.4-1f2a6b?style=for-the-badge" alt="Zano Wallet v2.0.4 release"></a>
-<a href="https://github.com/zano-projects/Zano-Wallet/tree/main/learn"><img src="https://img.shields.io/badge/Guides-Zano%20Wallet%20Learn-3b2a8f?style=for-the-badge" alt="Zano Wallet guides"></a>
+<a href="https://github.com/zano-projects/Zano-Wallet/tree/master/learn"><img src="https://img.shields.io/badge/Guides-Zano%20Wallet%20Learn-3b2a8f?style=for-the-badge" alt="Zano Wallet guides"></a>
 </p>
 
 ---
@@ -29,7 +29,7 @@ Your seed gives full control; scammers want nothing else.
 4. Keep seeds offline.
 5. Move funds if you shared your seed.
 
-Related reading: [Avoid Fake Zano Wallet Downloads](./avoid-fake-zano-wallet-sites.md) and the [security page](https://github.com/zano-projects/Zano-Wallet/tree/main/learn).
+Related reading: [Avoid Fake Zano Wallet Downloads](./avoid-fake-zano-wallet-sites.md) and the [security page](https://github.com/zano-projects/Zano-Wallet/tree/master/learn).
 
 ## If that didn't work
 
@@ -37,7 +37,7 @@ If you exposed the seed, create a new wallet now and transfer everything. You ca
 
 ## Prevent it next time
 
-Treat every request for your seed as a scam. More guides: [private wallet guide](https://github.com/zano-projects/Zano-Wallet/tree/main/learn).
+Treat every request for your seed as a scam. More guides: [private wallet guide](https://github.com/zano-projects/Zano-Wallet/tree/master/learn).
 
 > [!WARNING]
 > Nobody from Zano Wallet will ever ask for your seed phrase. Never type it into a website or chat.
@@ -71,10 +71,10 @@ The current release, **Zano Wallet v2.0.4**, includes the latest fixes. Download
 
 | Guide | More |
 |---|---|
-| [Avoid Fake Zano Wallet Downloads](./avoid-fake-zano-wallet-sites.md) | [security page](https://github.com/zano-projects/Zano-Wallet/tree/main/learn) |
-| [How to Back Up Zano Wallet Properly](./backup-zano-wallet.md) | [private wallet guide](https://github.com/zano-projects/Zano-Wallet/tree/main/learn) |
-| [Lost Your Zano .wallet File? Recover Your Coins](./lost-zano-wallet-file.md) | [download Zano Wallet](https://github.com/zano-projects/Zano-Wallet/tree/main/learn) |
+| [Avoid Fake Zano Wallet Downloads](./avoid-fake-zano-wallet-sites.md) | [security page](https://github.com/zano-projects/Zano-Wallet/tree/master/learn) |
+| [How to Back Up Zano Wallet Properly](./backup-zano-wallet.md) | [private wallet guide](https://github.com/zano-projects/Zano-Wallet/tree/master/learn) |
+| [Lost Your Zano .wallet File? Recover Your Coins](./lost-zano-wallet-file.md) | [download Zano Wallet](https://github.com/zano-projects/Zano-Wallet/tree/master/learn) |
 
 ---
 
-<p align="center"><a href="https://github.com/zano-projects">github.com/zano-projects</a> · <a href="https://github.com/zano-projects/Zano-Wallet/releases/tag/v2.0.4">Release v2.0.4</a> · <a href="https://github.com/zano-projects/Zano-Wallet/tree/main/learn">All guides</a></p>
+<p align="center"><a href="https://github.com/zano-projects">github.com/zano-projects</a> · <a href="https://github.com/zano-projects/Zano-Wallet/releases/tag/v2.0.4">Release v2.0.4</a> · <a href="https://github.com/zano-projects/Zano-Wallet/tree/master/learn">All guides</a></p>
