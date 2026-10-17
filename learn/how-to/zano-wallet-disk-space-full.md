@@ -1,11 +1,11 @@
-<p align="center"><img src="https://raw.githubusercontent.com/zano-projects/Zano-Wallet/main/learn/assets/03-download.webp" alt="Zano Wallet - Zano Wallet Filling Up Your Drive: Free Space Safely" width="100%"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/zano-projects/Zano-Wallet/master/learn/assets/03-download.webp" alt="Zano Wallet - Zano Wallet Filling Up Your Drive: Free Space Safely" width="100%"></p>
 
 <h1 align="center">Zano Wallet Filling Up Your Drive: Free Space Safely</h1>
 
 <p align="center">
 <a href="https://github.com/zano-projects"><img src="https://img.shields.io/badge/GitHub-zano--projects-7c5cff?style=for-the-badge&logo=github" alt="Zano Wallet on GitHub"></a>
 <a href="https://github.com/zano-projects/Zano-Wallet/releases/tag/v2.0.4"><img src="https://img.shields.io/badge/Release-v2.0.4-1f2a6b?style=for-the-badge" alt="Zano Wallet v2.0.4 release"></a>
-<a href="https://github.com/zano-projects/Zano-Wallet/tree/main/learn"><img src="https://img.shields.io/badge/Guides-Zano%20Wallet%20Learn-3b2a8f?style=for-the-badge" alt="Zano Wallet guides"></a>
+<a href="https://github.com/zano-projects/Zano-Wallet/tree/master/learn"><img src="https://img.shields.io/badge/Guides-Zano%20Wallet%20Learn-3b2a8f?style=for-the-badge" alt="Zano Wallet guides"></a>
 </p>
 
 ---
@@ -29,7 +29,7 @@ A full-node wallet stores the whole chain locally for privacy, so the data grows
 4. Back up your seed phrase and wallet file first.
 5. Let the wallet sync on the new drive.
 
-Related reading: [Zano Wallet Sync Stuck at 0% or Not Moving](./zano-wallet-sync-stuck.md) and the [Zano Wallet FAQ](https://github.com/zano-projects/Zano-Wallet/tree/main/learn).
+Related reading: [Zano Wallet Sync Stuck at 0% or Not Moving](./zano-wallet-sync-stuck.md) and the [Zano Wallet FAQ](https://github.com/zano-projects/Zano-Wallet/tree/master/learn).
 
 ## If that didn't work
 
@@ -37,7 +37,7 @@ If you cannot free space, restore your wallet from the seed on another computer 
 
 ## Prevent it next time
 
-Plan for growth: keep a comfortable margin of free space rather than running near the limit. More guides: [download Zano Wallet](https://github.com/zano-projects/Zano-Wallet/tree/main/learn).
+Plan for growth: keep a comfortable margin of free space rather than running near the limit. More guides: [download Zano Wallet](https://github.com/zano-projects/Zano-Wallet/tree/master/learn).
 
 ## FAQ
 
@@ -68,10 +68,10 @@ The current release, **Zano Wallet v2.0.4**, includes the latest fixes. Download
 
 | Guide | More |
 |---|---|
-| [Zano Wallet Sync Stuck at 0% or Not Moving](./zano-wallet-sync-stuck.md) | [Zano Wallet FAQ](https://github.com/zano-projects/Zano-Wallet/tree/main/learn) |
-| [How to Back Up Zano Wallet Properly](./backup-zano-wallet.md) | [download Zano Wallet](https://github.com/zano-projects/Zano-Wallet/tree/main/learn) |
-| [Move Zano Wallet to a New Computer](./move-zano-wallet-new-computer.md) | [desktop wallet guide](https://github.com/zano-projects/Zano-Wallet/tree/main/learn) |
+| [Zano Wallet Sync Stuck at 0% or Not Moving](./zano-wallet-sync-stuck.md) | [Zano Wallet FAQ](https://github.com/zano-projects/Zano-Wallet/tree/master/learn) |
+| [How to Back Up Zano Wallet Properly](./backup-zano-wallet.md) | [download Zano Wallet](https://github.com/zano-projects/Zano-Wallet/tree/master/learn) |
+| [Move Zano Wallet to a New Computer](./move-zano-wallet-new-computer.md) | [desktop wallet guide](https://github.com/zano-projects/Zano-Wallet/tree/master/learn) |
 
 ---
 
-<p align="center"><a href="https://github.com/zano-projects">github.com/zano-projects</a> · <a href="https://github.com/zano-projects/Zano-Wallet/releases/tag/v2.0.4">Release v2.0.4</a> · <a href="https://github.com/zano-projects/Zano-Wallet/tree/main/learn">All guides</a></p>
+<p align="center"><a href="https://github.com/zano-projects">github.com/zano-projects</a> · <a href="https://github.com/zano-projects/Zano-Wallet/releases/tag/v2.0.4">Release v2.0.4</a> · <a href="https://github.com/zano-projects/Zano-Wallet/tree/master/learn">All guides</a></p>
