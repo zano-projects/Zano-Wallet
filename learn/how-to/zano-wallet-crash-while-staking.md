@@ -1,11 +1,11 @@
-<p align="center"><img src="https://raw.githubusercontent.com/zano-projects/Zano-Wallet/main/learn/assets/04-staking-ecosystem.webp" alt="Zano Wallet - Zano Wallet Crashes While Staking" width="100%"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/zano-projects/Zano-Wallet/master/learn/assets/04-staking-ecosystem.webp" alt="Zano Wallet - Zano Wallet Crashes While Staking" width="100%"></p>
 
 <h1 align="center">Zano Wallet Crashes While Staking</h1>
 
 <p align="center">
 <a href="https://github.com/zano-projects"><img src="https://img.shields.io/badge/GitHub-zano--projects-7c5cff?style=for-the-badge&logo=github" alt="Zano Wallet on GitHub"></a>
 <a href="https://github.com/zano-projects/Zano-Wallet/releases/tag/v2.0.4"><img src="https://img.shields.io/badge/Release-v2.0.4-1f2a6b?style=for-the-badge" alt="Zano Wallet v2.0.4 release"></a>
-<a href="https://github.com/zano-projects/Zano-Wallet/tree/main/learn"><img src="https://img.shields.io/badge/Guides-Zano%20Wallet%20Learn-3b2a8f?style=for-the-badge" alt="Zano Wallet guides"></a>
+<a href="https://github.com/zano-projects/Zano-Wallet/tree/master/learn"><img src="https://img.shields.io/badge/Guides-Zano%20Wallet%20Learn-3b2a8f?style=for-the-badge" alt="Zano Wallet guides"></a>
 </p>
 
 ---
@@ -29,7 +29,7 @@ Long sessions expose bugs in older builds and power-saving settings can suspend 
 4. Restart the wallet and confirm staking is on.
 5. Check the sync reaches 100%.
 
-Related reading: [How to Stake ZANO in the Desktop Wallet](./stake-zano-in-wallet.md) and the [staking feature](https://github.com/zano-projects/Zano-Wallet/tree/main/learn).
+Related reading: [How to Stake ZANO in the Desktop Wallet](./stake-zano-in-wallet.md) and the [staking feature](https://github.com/zano-projects/Zano-Wallet/tree/master/learn).
 
 ## If that didn't work
 
@@ -37,7 +37,7 @@ If crashes continue, restore the wallet from seed on a fresh install. You can al
 
 ## Prevent it next time
 
-Restart the staking machine on a schedule and keep it updated. More guides: [Zano Wallet FAQ](https://github.com/zano-projects/Zano-Wallet/tree/main/learn).
+Restart the staking machine on a schedule and keep it updated. More guides: [Zano Wallet FAQ](https://github.com/zano-projects/Zano-Wallet/tree/master/learn).
 
 ## FAQ
 
@@ -68,10 +68,10 @@ The current release, **Zano Wallet v2.0.4**, includes the latest fixes. Download
 
 | Guide | More |
 |---|---|
-| [How to Stake ZANO in the Desktop Wallet](./stake-zano-in-wallet.md) | [staking feature](https://github.com/zano-projects/Zano-Wallet/tree/main/learn) |
-| [How to Update Zano Wallet to the Latest Version](./update-zano-wallet.md) | [Zano Wallet FAQ](https://github.com/zano-projects/Zano-Wallet/tree/main/learn) |
-| [Zano Staking Rewards Explained](./zano-staking-rewards-explained.md) | [download the latest version](https://github.com/zano-projects/Zano-Wallet/tree/main/learn) |
+| [How to Stake ZANO in the Desktop Wallet](./stake-zano-in-wallet.md) | [staking feature](https://github.com/zano-projects/Zano-Wallet/tree/master/learn) |
+| [How to Update Zano Wallet to the Latest Version](./update-zano-wallet.md) | [Zano Wallet FAQ](https://github.com/zano-projects/Zano-Wallet/tree/master/learn) |
+| [Zano Staking Rewards Explained](./zano-staking-rewards-explained.md) | [download the latest version](https://github.com/zano-projects/Zano-Wallet/tree/master/learn) |
 
 ---
 
-<p align="center"><a href="https://github.com/zano-projects">github.com/zano-projects</a> · <a href="https://github.com/zano-projects/Zano-Wallet/releases/tag/v2.0.4">Release v2.0.4</a> · <a href="https://github.com/zano-projects/Zano-Wallet/tree/main/learn">All guides</a></p>
+<p align="center"><a href="https://github.com/zano-projects">github.com/zano-projects</a> · <a href="https://github.com/zano-projects/Zano-Wallet/releases/tag/v2.0.4">Release v2.0.4</a> · <a href="https://github.com/zano-projects/Zano-Wallet/tree/master/learn">All guides</a></p>
