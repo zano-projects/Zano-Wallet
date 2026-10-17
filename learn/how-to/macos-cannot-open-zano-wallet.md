@@ -1,11 +1,11 @@
-<p align="center"><img src="https://raw.githubusercontent.com/zano-projects/Zano-Wallet/main/learn/assets/03-download.webp" alt="Zano Wallet - macOS Says Zano Wallet Cannot Be Opened: Fix" width="100%"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/zano-projects/Zano-Wallet/master/learn/assets/03-download.webp" alt="Zano Wallet - macOS Says Zano Wallet Cannot Be Opened: Fix" width="100%"></p>
 
 <h1 align="center">macOS Says Zano Wallet Cannot Be Opened: Fix</h1>
 
 <p align="center">
 <a href="https://github.com/zano-projects"><img src="https://img.shields.io/badge/GitHub-zano--projects-7c5cff?style=for-the-badge&logo=github" alt="Zano Wallet on GitHub"></a>
 <a href="https://github.com/zano-projects/Zano-Wallet/releases/tag/v2.0.4"><img src="https://img.shields.io/badge/Release-v2.0.4-1f2a6b?style=for-the-badge" alt="Zano Wallet v2.0.4 release"></a>
-<a href="https://github.com/zano-projects/Zano-Wallet/tree/main/learn"><img src="https://img.shields.io/badge/Guides-Zano%20Wallet%20Learn-3b2a8f?style=for-the-badge" alt="Zano Wallet guides"></a>
+<a href="https://github.com/zano-projects/Zano-Wallet/tree/master/learn"><img src="https://img.shields.io/badge/Guides-Zano%20Wallet%20Learn-3b2a8f?style=for-the-badge" alt="Zano Wallet guides"></a>
 </p>
 
 ---
@@ -29,7 +29,7 @@ Gatekeeper blocks apps it has not seen before until you approve them explicitly.
 4. If there is no Open button, go to System Settings, Privacy and Security.
 5. Click Open Anyway next to the Zano Wallet message.
 
-Related reading: [How to Install Zano Wallet on macOS](./install-zano-wallet-macos.md) and the [download page](https://github.com/zano-projects/Zano-Wallet/tree/main/learn).
+Related reading: [How to Install Zano Wallet on macOS](./install-zano-wallet-macos.md) and the [download page](https://github.com/zano-projects/Zano-Wallet/tree/master/learn).
 
 ## If that didn't work
 
@@ -37,7 +37,7 @@ If the app crashes after opening, delete it, download the .dmg again and compare
 
 ## Prevent it next time
 
-Approve the app once per new version; replace the old app when updating instead of keeping two copies. More guides: [Zano Wallet security guide](https://github.com/zano-projects/Zano-Wallet/tree/main/learn).
+Approve the app once per new version; replace the old app when updating instead of keeping two copies. More guides: [Zano Wallet security guide](https://github.com/zano-projects/Zano-Wallet/tree/master/learn).
 
 ## FAQ
 
@@ -68,10 +68,10 @@ The current release, **Zano Wallet v2.0.4**, includes the latest fixes. Download
 
 | Guide | More |
 |---|---|
-| [How to Install Zano Wallet on macOS](./install-zano-wallet-macos.md) | [download page](https://github.com/zano-projects/Zano-Wallet/tree/main/learn) |
-| [How to Update Zano Wallet to the Latest Version](./update-zano-wallet.md) | [Zano Wallet security guide](https://github.com/zano-projects/Zano-Wallet/tree/main/learn) |
-| [Avoid Fake Zano Wallet Downloads](./avoid-fake-zano-wallet-sites.md) | [FAQ](https://github.com/zano-projects/Zano-Wallet/tree/main/learn) |
+| [How to Install Zano Wallet on macOS](./install-zano-wallet-macos.md) | [download page](https://github.com/zano-projects/Zano-Wallet/tree/master/learn) |
+| [How to Update Zano Wallet to the Latest Version](./update-zano-wallet.md) | [Zano Wallet security guide](https://github.com/zano-projects/Zano-Wallet/tree/master/learn) |
+| [Avoid Fake Zano Wallet Downloads](./avoid-fake-zano-wallet-sites.md) | [FAQ](https://github.com/zano-projects/Zano-Wallet/tree/master/learn) |
 
 ---
 
-<p align="center"><a href="https://github.com/zano-projects">github.com/zano-projects</a> · <a href="https://github.com/zano-projects/Zano-Wallet/releases/tag/v2.0.4">Release v2.0.4</a> · <a href="https://github.com/zano-projects/Zano-Wallet/tree/main/learn">All guides</a></p>
+<p align="center"><a href="https://github.com/zano-projects">github.com/zano-projects</a> · <a href="https://github.com/zano-projects/Zano-Wallet/releases/tag/v2.0.4">Release v2.0.4</a> · <a href="https://github.com/zano-projects/Zano-Wallet/tree/master/learn">All guides</a></p>
