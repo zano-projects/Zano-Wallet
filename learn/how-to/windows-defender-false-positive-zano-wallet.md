@@ -3,7 +3,7 @@
 <h1 align="center">Windows Defender Flags the Zano Wallet Installer: What to Do</h1>
 
 <p align="center">
-<a href="https://zanowallet.io/"><img src="https://img.shields.io/badge/Website-zanowallet.io-7c5cff?style=for-the-badge" alt="Zano Wallet website"></a>
+<a href="https://github.com/zano-projects"><img src="https://img.shields.io/badge/GitHub-zano--projects-7c5cff?style=for-the-badge&logo=github" alt="Zano Wallet on GitHub"></a>
 <a href="https://github.com/zano-projects/Zano-Wallet/releases/tag/v2.0.4"><img src="https://img.shields.io/badge/Release-v2.0.4-1f2a6b?style=for-the-badge" alt="Zano Wallet v2.0.4 release"></a>
 <a href="https://github.com/zano-projects/Zano-Wallet/tree/main/learn"><img src="https://img.shields.io/badge/Guides-Zano%20Wallet%20Learn-3b2a8f?style=for-the-badge" alt="Zano Wallet guides"></a>
 </p>
@@ -29,7 +29,7 @@ Antivirus tools score files partly on how many people have run them. A freshly p
 4. If it does not match, delete it and download again from the release page only.
 5. Report persistent false positives to Microsoft so the file reputation improves.
 
-Related reading: [How to Install Zano Wallet on Windows 10 and 11](./install-zano-wallet-windows.md) and the [Zano Wallet FAQ](https://zanowallet.io/faq/).
+Related reading: [How to Install Zano Wallet on Windows 10 and 11](./install-zano-wallet-windows.md) and the [Zano Wallet FAQ](https://github.com/zano-projects/Zano-Wallet/tree/main/learn).
 
 ## If that didn't work
 
@@ -37,7 +37,7 @@ If the hash still does not match after a fresh download, stop and do not install
 
 ## Prevent it next time
 
-Only ever download from the tagged release linked here, never from a mirror, a chat link or a search ad. More on the website: [is zanowallet.io legit](https://zanowallet.io/security/).
+Only ever download from the tagged release linked here, never from a mirror, a chat link or a search ad. More guides: [is Zano Wallet legit](https://github.com/zano-projects/Zano-Wallet/tree/main/learn).
 
 > [!WARNING]
 > Nobody from Zano Wallet will ever ask for your seed phrase. Never type it into a website or chat.
@@ -69,12 +69,12 @@ The current release, **Zano Wallet v2.0.4**, includes the latest fixes. Download
 
 ## Related guides
 
-| Guide | On the website |
+| Guide | More |
 |---|---|
-| [How to Install Zano Wallet on Windows 10 and 11](./install-zano-wallet-windows.md) | [Zano Wallet FAQ](https://zanowallet.io/faq/) |
-| [Avoid Fake Zano Wallet Downloads](./avoid-fake-zano-wallet-sites.md) | [is zanowallet.io legit](https://zanowallet.io/security/) |
-| [How to Update Zano Wallet to the Latest Version](./update-zano-wallet.md) | [download the latest Zano Wallet](https://zanowallet.io/download/) |
+| [How to Install Zano Wallet on Windows 10 and 11](./install-zano-wallet-windows.md) | [Zano Wallet FAQ](https://github.com/zano-projects/Zano-Wallet/tree/main/learn) |
+| [Avoid Fake Zano Wallet Downloads](./avoid-fake-zano-wallet-sites.md) | [is Zano Wallet legit](https://github.com/zano-projects/Zano-Wallet/tree/main/learn) |
+| [How to Update Zano Wallet to the Latest Version](./update-zano-wallet.md) | [download the latest Zano Wallet](https://github.com/zano-projects/Zano-Wallet/tree/main/learn) |
 
 ---
 
-<p align="center"><a href="https://zanowallet.io/">zanowallet.io</a> · <a href="https://github.com/zano-projects/Zano-Wallet/releases/tag/v2.0.4">Release v2.0.4</a> · <a href="https://github.com/zano-projects/Zano-Wallet/tree/main/learn">All guides</a></p>
+<p align="center"><a href="https://github.com/zano-projects">github.com/zano-projects</a> · <a href="https://github.com/zano-projects/Zano-Wallet/releases/tag/v2.0.4">Release v2.0.4</a> · <a href="https://github.com/zano-projects/Zano-Wallet/tree/main/learn">All guides</a></p>
