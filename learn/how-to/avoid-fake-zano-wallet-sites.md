@@ -1,11 +1,11 @@
-<p align="center"><img src="https://raw.githubusercontent.com/zano-projects/Zano-Wallet/main/learn/assets/05-self-custody-security.webp" alt="Zano Wallet - Avoid Fake Zano Wallet Downloads" width="100%"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/zano-projects/Zano-Wallet/master/learn/assets/05-self-custody-security.webp" alt="Zano Wallet - Avoid Fake Zano Wallet Downloads" width="100%"></p>
 
 <h1 align="center">Avoid Fake Zano Wallet Downloads</h1>
 
 <p align="center">
 <a href="https://github.com/zano-projects"><img src="https://img.shields.io/badge/GitHub-zano--projects-7c5cff?style=for-the-badge&logo=github" alt="Zano Wallet on GitHub"></a>
 <a href="https://github.com/zano-projects/Zano-Wallet/releases/tag/v2.0.4"><img src="https://img.shields.io/badge/Release-v2.0.4-1f2a6b?style=for-the-badge" alt="Zano Wallet v2.0.4 release"></a>
-<a href="https://github.com/zano-projects/Zano-Wallet/tree/main/learn"><img src="https://img.shields.io/badge/Guides-Zano%20Wallet%20Learn-3b2a8f?style=for-the-badge" alt="Zano Wallet guides"></a>
+<a href="https://github.com/zano-projects/Zano-Wallet/tree/master/learn"><img src="https://img.shields.io/badge/Guides-Zano%20Wallet%20Learn-3b2a8f?style=for-the-badge" alt="Zano Wallet guides"></a>
 </p>
 
 ---
@@ -29,7 +29,7 @@ Fake wallet sites copy branding to steal seeds.
 4. Ignore download links in DMs.
 5. Report suspicious sites.
 
-Related reading: [Seed Phrase Scams Targeting Zano Users](./avoid-seed-phrase-scams.md) and the [is Zano Wallet legit](https://github.com/zano-projects/Zano-Wallet/tree/main/learn).
+Related reading: [Seed Phrase Scams Targeting Zano Users](./avoid-seed-phrase-scams.md) and the [is Zano Wallet legit](https://github.com/zano-projects/Zano-Wallet/tree/master/learn).
 
 ## If that didn't work
 
@@ -37,7 +37,7 @@ If you installed a fake, create a new wallet on a clean system and move funds im
 
 ## Prevent it next time
 
-Bookmark the official download page. More guides: [Zano Wallet download](https://github.com/zano-projects/Zano-Wallet/tree/main/learn).
+Bookmark the official download page. More guides: [Zano Wallet download](https://github.com/zano-projects/Zano-Wallet/tree/master/learn).
 
 > [!WARNING]
 > Nobody from Zano Wallet will ever ask for your seed phrase. Never type it into a website or chat.
@@ -71,10 +71,10 @@ The current release, **Zano Wallet v2.0.4**, includes the latest fixes. Download
 
 | Guide | More |
 |---|---|
-| [Seed Phrase Scams Targeting Zano Users](./avoid-seed-phrase-scams.md) | [is Zano Wallet legit](https://github.com/zano-projects/Zano-Wallet/tree/main/learn) |
-| [Windows Defender Flags the Zano Wallet Installer: What to Do](./windows-defender-false-positive-zano-wallet.md) | [Zano Wallet download](https://github.com/zano-projects/Zano-Wallet/tree/main/learn) |
-| [How to Update Zano Wallet to the Latest Version](./update-zano-wallet.md) | [is Zano safe](https://github.com/zano-projects/Zano-Wallet/tree/main/learn) |
+| [Seed Phrase Scams Targeting Zano Users](./avoid-seed-phrase-scams.md) | [is Zano Wallet legit](https://github.com/zano-projects/Zano-Wallet/tree/master/learn) |
+| [Windows Defender Flags the Zano Wallet Installer: What to Do](./windows-defender-false-positive-zano-wallet.md) | [Zano Wallet download](https://github.com/zano-projects/Zano-Wallet/tree/master/learn) |
+| [How to Update Zano Wallet to the Latest Version](./update-zano-wallet.md) | [is Zano safe](https://github.com/zano-projects/Zano-Wallet/tree/master/learn) |
 
 ---
 
-<p align="center"><a href="https://github.com/zano-projects">github.com/zano-projects</a> · <a href="https://github.com/zano-projects/Zano-Wallet/releases/tag/v2.0.4">Release v2.0.4</a> · <a href="https://github.com/zano-projects/Zano-Wallet/tree/main/learn">All guides</a></p>
+<p align="center"><a href="https://github.com/zano-projects">github.com/zano-projects</a> · <a href="https://github.com/zano-projects/Zano-Wallet/releases/tag/v2.0.4">Release v2.0.4</a> · <a href="https://github.com/zano-projects/Zano-Wallet/tree/master/learn">All guides</a></p>
