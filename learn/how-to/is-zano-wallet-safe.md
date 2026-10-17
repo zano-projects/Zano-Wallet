@@ -3,7 +3,7 @@
 <h1 align="center">Is Zano Wallet Safe to Use?</h1>
 
 <p align="center">
-<a href="https://zanowallet.io/"><img src="https://img.shields.io/badge/Website-zanowallet.io-7c5cff?style=for-the-badge" alt="Zano Wallet website"></a>
+<a href="https://github.com/zano-projects"><img src="https://img.shields.io/badge/GitHub-zano--projects-7c5cff?style=for-the-badge&logo=github" alt="Zano Wallet on GitHub"></a>
 <a href="https://github.com/zano-projects/Zano-Wallet/releases/tag/v2.0.4"><img src="https://img.shields.io/badge/Release-v2.0.4-1f2a6b?style=for-the-badge" alt="Zano Wallet v2.0.4 release"></a>
 <a href="https://github.com/zano-projects/Zano-Wallet/tree/main/learn"><img src="https://img.shields.io/badge/Guides-Zano%20Wallet%20Learn-3b2a8f?style=for-the-badge" alt="Zano Wallet guides"></a>
 </p>
@@ -29,7 +29,7 @@ Wallet safety depends on the software source and your own habits.
 4. Use a strong password.
 5. Keep the wallet updated.
 
-Related reading: [Avoid Fake Zano Wallet Downloads](./avoid-fake-zano-wallet-sites.md) and the [is Zano safe](https://zanowallet.io/is-zano-safe/).
+Related reading: [Avoid Fake Zano Wallet Downloads](./avoid-fake-zano-wallet-sites.md) and the [is Zano safe](https://github.com/zano-projects/Zano-Wallet/tree/main/learn).
 
 ## If that didn't work
 
@@ -37,7 +37,7 @@ If anything seems off, stop and ask in the issue tracker. You can also read [How
 
 ## Prevent it next time
 
-Combine official downloads, backups and updates. More on the website: [Zano Wallet security](https://zanowallet.io/security/).
+Combine official downloads, backups and updates. More guides: [Zano Wallet security](https://github.com/zano-projects/Zano-Wallet/tree/main/learn).
 
 ## FAQ
 
@@ -66,12 +66,12 @@ The current release, **Zano Wallet v2.0.4**, includes the latest fixes. Download
 
 ## Related guides
 
-| Guide | On the website |
+| Guide | More |
 |---|---|
-| [Avoid Fake Zano Wallet Downloads](./avoid-fake-zano-wallet-sites.md) | [is Zano safe](https://zanowallet.io/is-zano-safe/) |
-| [How to Back Up Zano Wallet Properly](./backup-zano-wallet.md) | [Zano Wallet security](https://zanowallet.io/security/) |
-| [How to Update Zano Wallet to the Latest Version](./update-zano-wallet.md) | [about Zano Wallet](https://zanowallet.io/about/) |
+| [Avoid Fake Zano Wallet Downloads](./avoid-fake-zano-wallet-sites.md) | [is Zano safe](https://github.com/zano-projects/Zano-Wallet/tree/main/learn) |
+| [How to Back Up Zano Wallet Properly](./backup-zano-wallet.md) | [Zano Wallet security](https://github.com/zano-projects/Zano-Wallet/tree/main/learn) |
+| [How to Update Zano Wallet to the Latest Version](./update-zano-wallet.md) | [about Zano Wallet](https://github.com/zano-projects/Zano-Wallet/tree/main/learn) |
 
 ---
 
-<p align="center"><a href="https://zanowallet.io/">zanowallet.io</a> · <a href="https://github.com/zano-projects/Zano-Wallet/releases/tag/v2.0.4">Release v2.0.4</a> · <a href="https://github.com/zano-projects/Zano-Wallet/tree/main/learn">All guides</a></p>
+<p align="center"><a href="https://github.com/zano-projects">github.com/zano-projects</a> · <a href="https://github.com/zano-projects/Zano-Wallet/releases/tag/v2.0.4">Release v2.0.4</a> · <a href="https://github.com/zano-projects/Zano-Wallet/tree/main/learn">All guides</a></p>
