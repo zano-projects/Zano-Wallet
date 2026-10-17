@@ -3,7 +3,7 @@
 <h1 align="center">How to Install Zano Wallet on macOS</h1>
 
 <p align="center">
-<a href="https://zanowallet.io/"><img src="https://img.shields.io/badge/Website-zanowallet.io-7c5cff?style=for-the-badge" alt="Zano Wallet website"></a>
+<a href="https://github.com/zano-projects"><img src="https://img.shields.io/badge/GitHub-zano--projects-7c5cff?style=for-the-badge&logo=github" alt="Zano Wallet on GitHub"></a>
 <a href="https://github.com/zano-projects/Zano-Wallet/releases/tag/v2.0.4"><img src="https://img.shields.io/badge/Release-v2.0.4-1f2a6b?style=for-the-badge" alt="Zano Wallet v2.0.4 release"></a>
 <a href="https://github.com/zano-projects/Zano-Wallet/tree/main/learn"><img src="https://img.shields.io/badge/Guides-Zano%20Wallet%20Learn-3b2a8f?style=for-the-badge" alt="Zano Wallet guides"></a>
 </p>
@@ -29,7 +29,7 @@ macOS only trusts apps after they are copied to Applications and approved the fi
 4. Open Applications, right-click Zano Wallet and choose Open.
 5. Wait for the first sync before creating a wallet.
 
-Related reading: [macOS Says Zano Wallet Cannot Be Opened: Fix](./macos-cannot-open-zano-wallet.md) and the [download Zano Wallet for macOS](https://zanowallet.io/download/).
+Related reading: [macOS Says Zano Wallet Cannot Be Opened: Fix](./macos-cannot-open-zano-wallet.md) and the [download Zano Wallet for macOS](https://github.com/zano-projects/Zano-Wallet/tree/main/learn).
 
 ## If that didn't work
 
@@ -37,7 +37,7 @@ If macOS still blocks it, open System Settings, Privacy and Security, and use th
 
 ## Prevent it next time
 
-Never run the wallet from the Downloads folder or the mounted disk image; keep the copy in Applications so updates replace it cleanly. More on the website: [desktop vs mobile wallets](https://zanowallet.io/guides/posts/desktop-vs-mobile-crypto-wallet-2026/).
+Never run the wallet from the Downloads folder or the mounted disk image; keep the copy in Applications so updates replace it cleanly. More guides: [desktop vs mobile wallets](https://github.com/zano-projects/Zano-Wallet/tree/main/learn).
 
 ## FAQ
 
@@ -66,12 +66,12 @@ The current release, **Zano Wallet v2.0.4**, includes the latest fixes. Download
 
 ## Related guides
 
-| Guide | On the website |
+| Guide | More |
 |---|---|
-| [macOS Says Zano Wallet Cannot Be Opened: Fix](./macos-cannot-open-zano-wallet.md) | [download Zano Wallet for macOS](https://zanowallet.io/download/) |
-| [Zano Wallet Sync Stuck at 0% or Not Moving](./zano-wallet-sync-stuck.md) | [desktop vs mobile wallets](https://zanowallet.io/guides/posts/desktop-vs-mobile-crypto-wallet-2026/) |
-| [How to Back Up Zano Wallet Properly](./backup-zano-wallet.md) | [Zano Wallet security](https://zanowallet.io/security/) |
+| [macOS Says Zano Wallet Cannot Be Opened: Fix](./macos-cannot-open-zano-wallet.md) | [download Zano Wallet for macOS](https://github.com/zano-projects/Zano-Wallet/tree/main/learn) |
+| [Zano Wallet Sync Stuck at 0% or Not Moving](./zano-wallet-sync-stuck.md) | [desktop vs mobile wallets](https://github.com/zano-projects/Zano-Wallet/tree/main/learn) |
+| [How to Back Up Zano Wallet Properly](./backup-zano-wallet.md) | [Zano Wallet security](https://github.com/zano-projects/Zano-Wallet/tree/main/learn) |
 
 ---
 
-<p align="center"><a href="https://zanowallet.io/">zanowallet.io</a> · <a href="https://github.com/zano-projects/Zano-Wallet/releases/tag/v2.0.4">Release v2.0.4</a> · <a href="https://github.com/zano-projects/Zano-Wallet/tree/main/learn">All guides</a></p>
+<p align="center"><a href="https://github.com/zano-projects">github.com/zano-projects</a> · <a href="https://github.com/zano-projects/Zano-Wallet/releases/tag/v2.0.4">Release v2.0.4</a> · <a href="https://github.com/zano-projects/Zano-Wallet/tree/main/learn">All guides</a></p>
