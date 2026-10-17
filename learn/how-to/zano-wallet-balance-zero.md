@@ -3,7 +3,7 @@
 <h1 align="center">Zano Wallet Shows a Zero Balance</h1>
 
 <p align="center">
-<a href="https://zanowallet.io/"><img src="https://img.shields.io/badge/Website-zanowallet.io-7c5cff?style=for-the-badge" alt="Zano Wallet website"></a>
+<a href="https://github.com/zano-projects"><img src="https://img.shields.io/badge/GitHub-zano--projects-7c5cff?style=for-the-badge&logo=github" alt="Zano Wallet on GitHub"></a>
 <a href="https://github.com/zano-projects/Zano-Wallet/releases/tag/v2.0.4"><img src="https://img.shields.io/badge/Release-v2.0.4-1f2a6b?style=for-the-badge" alt="Zano Wallet v2.0.4 release"></a>
 <a href="https://github.com/zano-projects/Zano-Wallet/tree/main/learn"><img src="https://img.shields.io/badge/Guides-Zano%20Wallet%20Learn-3b2a8f?style=for-the-badge" alt="Zano Wallet guides"></a>
 </p>
@@ -29,7 +29,7 @@ Your coins are recorded on the chain. The wallet scans blocks to find them, whic
 4. Look up the sender's transaction confirmations.
 5. Restart the wallet once the sync completes.
 
-Related reading: [Zano Wallet Sync Stuck at 0% or Not Moving](./zano-wallet-sync-stuck.md) and the [Zano Wallet FAQ](https://zanowallet.io/faq/).
+Related reading: [Zano Wallet Sync Stuck at 0% or Not Moving](./zano-wallet-sync-stuck.md) and the [Zano Wallet FAQ](https://github.com/zano-projects/Zano-Wallet/tree/main/learn).
 
 ## If that didn't work
 
@@ -37,7 +37,7 @@ Still empty? Restore again carefully from your seed; one wrong word creates a di
 
 ## Prevent it next time
 
-Write your seed clearly and test a restore on a spare install before storing large amounts. More on the website: [recover a Zano wallet](https://zanowallet.io/guides/how-to-recover-zano-wallet/).
+Write your seed clearly and test a restore on a spare install before storing large amounts. More guides: [recover a Zano wallet](https://github.com/zano-projects/Zano-Wallet/tree/main/learn).
 
 > [!WARNING]
 > Nobody from Zano Wallet will ever ask for your seed phrase. Never type it into a website or chat.
@@ -69,12 +69,12 @@ The current release, **Zano Wallet v2.0.4**, includes the latest fixes. Download
 
 ## Related guides
 
-| Guide | On the website |
+| Guide | More |
 |---|---|
-| [Zano Wallet Sync Stuck at 0% or Not Moving](./zano-wallet-sync-stuck.md) | [Zano Wallet FAQ](https://zanowallet.io/faq/) |
-| [Restore a Zano Wallet From Your Seed Phrase](./restore-zano-wallet-from-seed.md) | [recover a Zano wallet](https://zanowallet.io/guides/how-to-recover-zano-wallet/) |
-| [Zano Transaction Pending or Not Confirmed](./zano-transaction-pending.md) | [download the newest version](https://zanowallet.io/download/) |
+| [Zano Wallet Sync Stuck at 0% or Not Moving](./zano-wallet-sync-stuck.md) | [Zano Wallet FAQ](https://github.com/zano-projects/Zano-Wallet/tree/main/learn) |
+| [Restore a Zano Wallet From Your Seed Phrase](./restore-zano-wallet-from-seed.md) | [recover a Zano wallet](https://github.com/zano-projects/Zano-Wallet/tree/main/learn) |
+| [Zano Transaction Pending or Not Confirmed](./zano-transaction-pending.md) | [download the newest version](https://github.com/zano-projects/Zano-Wallet/tree/main/learn) |
 
 ---
 
-<p align="center"><a href="https://zanowallet.io/">zanowallet.io</a> · <a href="https://github.com/zano-projects/Zano-Wallet/releases/tag/v2.0.4">Release v2.0.4</a> · <a href="https://github.com/zano-projects/Zano-Wallet/tree/main/learn">All guides</a></p>
+<p align="center"><a href="https://github.com/zano-projects">github.com/zano-projects</a> · <a href="https://github.com/zano-projects/Zano-Wallet/releases/tag/v2.0.4">Release v2.0.4</a> · <a href="https://github.com/zano-projects/Zano-Wallet/tree/main/learn">All guides</a></p>
