@@ -1,11 +1,11 @@
-<p align="center"><img src="https://raw.githubusercontent.com/zano-projects/Zano-Wallet/main/learn/assets/04-staking-ecosystem.webp" alt="Zano Wallet - Zano Staking Rewards Explained" width="100%"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/zano-projects/Zano-Wallet/master/learn/assets/04-staking-ecosystem.webp" alt="Zano Wallet - Zano Staking Rewards Explained" width="100%"></p>
 
 <h1 align="center">Zano Staking Rewards Explained</h1>
 
 <p align="center">
 <a href="https://github.com/zano-projects"><img src="https://img.shields.io/badge/GitHub-zano--projects-7c5cff?style=for-the-badge&logo=github" alt="Zano Wallet on GitHub"></a>
 <a href="https://github.com/zano-projects/Zano-Wallet/releases/tag/v2.0.4"><img src="https://img.shields.io/badge/Release-v2.0.4-1f2a6b?style=for-the-badge" alt="Zano Wallet v2.0.4 release"></a>
-<a href="https://github.com/zano-projects/Zano-Wallet/tree/main/learn"><img src="https://img.shields.io/badge/Guides-Zano%20Wallet%20Learn-3b2a8f?style=for-the-badge" alt="Zano Wallet guides"></a>
+<a href="https://github.com/zano-projects/Zano-Wallet/tree/master/learn"><img src="https://img.shields.io/badge/Guides-Zano%20Wallet%20Learn-3b2a8f?style=for-the-badge" alt="Zano Wallet guides"></a>
 </p>
 
 ---
@@ -29,7 +29,7 @@ Block selection is probabilistic, so short periods vary while long periods avera
 4. Compare against network-wide stake.
 5. Reinvest by leaving rewards in the wallet.
 
-Related reading: [How to Stake ZANO in the Desktop Wallet](./stake-zano-in-wallet.md) and the [staking overview](https://github.com/zano-projects/Zano-Wallet/tree/main/learn).
+Related reading: [How to Stake ZANO in the Desktop Wallet](./stake-zano-in-wallet.md) and the [staking overview](https://github.com/zano-projects/Zano-Wallet/tree/master/learn).
 
 ## If that didn't work
 
@@ -37,7 +37,7 @@ If rewards stop completely, check that the wallet is synced and staking is enabl
 
 ## Prevent it next time
 
-Treat estimates as averages; never rely on a fixed return. More guides: [Zano price](https://github.com/zano-projects/Zano-Wallet/tree/main/learn).
+Treat estimates as averages; never rely on a fixed return. More guides: [Zano price](https://github.com/zano-projects/Zano-Wallet/tree/master/learn).
 
 ## FAQ
 
@@ -68,10 +68,10 @@ The current release, **Zano Wallet v2.0.4**, includes the latest fixes. Download
 
 | Guide | More |
 |---|---|
-| [How to Stake ZANO in the Desktop Wallet](./stake-zano-in-wallet.md) | [staking overview](https://github.com/zano-projects/Zano-Wallet/tree/main/learn) |
-| [Zano Hybrid PoW and PoS Consensus in Plain Words](./zano-hybrid-pow-pos.md) | [Zano price](https://github.com/zano-projects/Zano-Wallet/tree/main/learn) |
-| [Zano Wallet Crashes While Staking](./zano-wallet-crash-while-staking.md) | [staking guide](https://github.com/zano-projects/Zano-Wallet/tree/main/learn) |
+| [How to Stake ZANO in the Desktop Wallet](./stake-zano-in-wallet.md) | [staking overview](https://github.com/zano-projects/Zano-Wallet/tree/master/learn) |
+| [Zano Hybrid PoW and PoS Consensus in Plain Words](./zano-hybrid-pow-pos.md) | [Zano price](https://github.com/zano-projects/Zano-Wallet/tree/master/learn) |
+| [Zano Wallet Crashes While Staking](./zano-wallet-crash-while-staking.md) | [staking guide](https://github.com/zano-projects/Zano-Wallet/tree/master/learn) |
 
 ---
 
-<p align="center"><a href="https://github.com/zano-projects">github.com/zano-projects</a> · <a href="https://github.com/zano-projects/Zano-Wallet/releases/tag/v2.0.4">Release v2.0.4</a> · <a href="https://github.com/zano-projects/Zano-Wallet/tree/main/learn">All guides</a></p>
+<p align="center"><a href="https://github.com/zano-projects">github.com/zano-projects</a> · <a href="https://github.com/zano-projects/Zano-Wallet/releases/tag/v2.0.4">Release v2.0.4</a> · <a href="https://github.com/zano-projects/Zano-Wallet/tree/master/learn">All guides</a></p>
