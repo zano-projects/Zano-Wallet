@@ -4,7 +4,7 @@
 <p align="center"><b>Practical how-to guides for Zano Wallet: install, sync, back up, stake and stay private.</b></p>
 
 <p align="center">
-<a href="https://zanowallet.io/"><img src="https://img.shields.io/badge/Website-zanowallet.io-7c5cff?style=for-the-badge" alt="Zano Wallet website"></a>
+<a href="https://github.com/zano-projects"><img src="https://img.shields.io/badge/GitHub-zano--projects-7c5cff?style=for-the-badge&logo=github" alt="Zano Wallet on GitHub"></a>
 <a href="https://github.com/zano-projects/Zano-Wallet/releases/tag/v2.0.4"><img src="https://img.shields.io/badge/Release-v2.0.4-1f2a6b?style=for-the-badge" alt="Zano Wallet v2.0.4 release"></a>
 <a href="https://github.com/zano-projects/Zano-Wallet/tree/main/learn"><img src="https://img.shields.io/badge/Guides-Zano%20Wallet%20Learn-3b2a8f?style=for-the-badge" alt="Zano Wallet guides"></a>
 </p>
@@ -50,7 +50,7 @@ These guides answer the questions Zano Wallet users ask most. Each one ends with
 | [Restore a Zano Wallet From Your Seed Phrase](./how-to/restore-zano-wallet-from-seed.md) | Choose Restore from seed, type every word in order, set a new password, and let the wallet scan the blockchain. |
 | [Lost Your Zano .wallet File? Recover Your Coins](./how-to/lost-zano-wallet-file.md) | Your coins are safe if you still have the seed phrase. |
 | [How to Back Up Zano Wallet Properly](./how-to/backup-zano-wallet.md) | Keep the seed phrase on paper offline and a copy of the . |
-| [Avoid Fake Zano Wallet Downloads](./how-to/avoid-fake-zano-wallet-sites.md) | Download only from the tagged release or zanowallet. |
+| [Avoid Fake Zano Wallet Downloads](./how-to/avoid-fake-zano-wallet-sites.md) | Download only from the tagged release page and compare the SHA-256. |
 | [Seed Phrase Scams Targeting Zano Users](./how-to/avoid-seed-phrase-scams.md) | No real support, wallet or airdrop will ever ask for your seed phrase. |
 
 ### Staking and mining
@@ -91,13 +91,5 @@ These guides answer the questions Zano Wallet users ask most. Each one ends with
 
 ---
 
-## On the website
-
-| Page | Link |
-|---|---|
-| Download Zano Wallet | [https://zanowallet.io/download/](https://zanowallet.io/download/) |
-| Zano Wallet FAQ | [https://zanowallet.io/faq/](https://zanowallet.io/faq/) |
-| Security | [https://zanowallet.io/security/](https://zanowallet.io/security/) |
-
 > [!TIP]
-> Only download Zano Wallet from the [tagged release](https://github.com/zano-projects/Zano-Wallet/releases/tag/v2.0.4) or [zanowallet.io/download](https://zanowallet.io/download/).
+> Only download Zano Wallet from the [tagged release](https://github.com/zano-projects/Zano-Wallet/releases/tag/v2.0.4) on [github.com/zano-projects](https://github.com/zano-projects).
