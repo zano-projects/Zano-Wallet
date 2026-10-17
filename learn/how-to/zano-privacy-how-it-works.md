@@ -3,7 +3,7 @@
 <h1 align="center">How Zano Keeps Transactions Private</h1>
 
 <p align="center">
-<a href="https://zanowallet.io/"><img src="https://img.shields.io/badge/Website-zanowallet.io-7c5cff?style=for-the-badge" alt="Zano Wallet website"></a>
+<a href="https://github.com/zano-projects"><img src="https://img.shields.io/badge/GitHub-zano--projects-7c5cff?style=for-the-badge&logo=github" alt="Zano Wallet on GitHub"></a>
 <a href="https://github.com/zano-projects/Zano-Wallet/releases/tag/v2.0.4"><img src="https://img.shields.io/badge/Release-v2.0.4-1f2a6b?style=for-the-badge" alt="Zano Wallet v2.0.4 release"></a>
 <a href="https://github.com/zano-projects/Zano-Wallet/tree/main/learn"><img src="https://img.shields.io/badge/Guides-Zano%20Wallet%20Learn-3b2a8f?style=for-the-badge" alt="Zano Wallet guides"></a>
 </p>
@@ -29,7 +29,7 @@ Public chains let anyone trace payments; Zano is private by default.
 4. Assets inherit the same privacy.
 5. Your wallet decodes only your own payments.
 
-Related reading: [Zano Confidential Assets Explained](./zano-confidential-assets.md) and the [what is Zano](https://zanowallet.io/what-is-zano/).
+Related reading: [Zano Confidential Assets Explained](./zano-confidential-assets.md) and the [what is Zano](https://github.com/zano-projects/Zano-Wallet/tree/main/learn).
 
 ## If that didn't work
 
@@ -37,7 +37,7 @@ Read the CryptoNote guide for background. You can also read [Zano vs Monero: Whi
 
 ## Prevent it next time
 
-Avoid linking your identity by reusing exchange accounts carelessly. More on the website: [CryptoNote explained](https://zanowallet.io/guides/cryptonote-explained/).
+Avoid linking your identity by reusing exchange accounts carelessly. More guides: [CryptoNote explained](https://github.com/zano-projects/Zano-Wallet/tree/main/learn).
 
 ## FAQ
 
@@ -66,12 +66,12 @@ The current release, **Zano Wallet v2.0.4**, includes the latest fixes. Download
 
 ## Related guides
 
-| Guide | On the website |
+| Guide | More |
 |---|---|
-| [Zano Confidential Assets Explained](./zano-confidential-assets.md) | [what is Zano](https://zanowallet.io/what-is-zano/) |
-| [Zano vs Monero: Which Privacy Wallet Fits You](./zano-vs-monero.md) | [CryptoNote explained](https://zanowallet.io/guides/cryptonote-explained/) |
-| [Using Zano Wallet Without KYC](./no-kyc-zano-wallet.md) | [can crypto wallets be traced](https://zanowallet.io/can-crypto-wallets-be-traced/) |
+| [Zano Confidential Assets Explained](./zano-confidential-assets.md) | [what is Zano](https://github.com/zano-projects/Zano-Wallet/tree/main/learn) |
+| [Zano vs Monero: Which Privacy Wallet Fits You](./zano-vs-monero.md) | [CryptoNote explained](https://github.com/zano-projects/Zano-Wallet/tree/main/learn) |
+| [Using Zano Wallet Without KYC](./no-kyc-zano-wallet.md) | [can crypto wallets be traced](https://github.com/zano-projects/Zano-Wallet/tree/main/learn) |
 
 ---
 
-<p align="center"><a href="https://zanowallet.io/">zanowallet.io</a> · <a href="https://github.com/zano-projects/Zano-Wallet/releases/tag/v2.0.4">Release v2.0.4</a> · <a href="https://github.com/zano-projects/Zano-Wallet/tree/main/learn">All guides</a></p>
+<p align="center"><a href="https://github.com/zano-projects">github.com/zano-projects</a> · <a href="https://github.com/zano-projects/Zano-Wallet/releases/tag/v2.0.4">Release v2.0.4</a> · <a href="https://github.com/zano-projects/Zano-Wallet/tree/main/learn">All guides</a></p>
