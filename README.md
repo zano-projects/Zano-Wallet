@@ -4,7 +4,7 @@
 <p align="center"><b>The desktop privacy wallet for Zano: private payments, staking, aliases and confidential assets.</b></p>
 
 <p align="center">
-<a href="https://zanowallet.io/"><img src="https://img.shields.io/badge/Website-zanowallet.io-7c5cff?style=for-the-badge" alt="Zano Wallet website"></a>
+<a href="https://github.com/zano-projects"><img src="https://img.shields.io/badge/GitHub-zano--projects-7c5cff?style=for-the-badge&logo=github" alt="Zano Wallet on GitHub"></a>
 <a href="https://github.com/zano-projects/Zano-Wallet/releases/tag/v2.0.4"><img src="https://img.shields.io/badge/Release-v2.0.4-1f2a6b?style=for-the-badge" alt="Zano Wallet v2.0.4 release"></a>
 <a href="https://github.com/zano-projects/Zano-Wallet/tree/main/learn"><img src="https://img.shields.io/badge/Guides-Zano%20Wallet%20Learn-3b2a8f?style=for-the-badge" alt="Zano Wallet guides"></a>
 </p>
@@ -43,11 +43,11 @@ Check on Windows: `certutil -hashfile <file> SHA256` · macOS: `shasum -a 256 <f
 
 | Feature | What you get |
 |---|---|
-| Private by default | Hidden senders, receivers and amounts on every transfer ([privacy](https://zanowallet.io/what-is-zano/)) |
-| Staking | Earn proof-of-stake rewards from your desktop ([staking](https://zanowallet.io/features/staking/)) |
-| Aliases | Send to a readable @name ([aliases](https://zanowallet.io/features/alias/)) |
-| Confidential assets | Hold private tokens next to ZANO ([assets](https://zanowallet.io/features/confidential-assets/)) |
-| Self-custody | No account, no KYC, your keys only ([no-KYC wallet](https://zanowallet.io/no-kyc-wallet/)) |
+| Private by default | Hidden senders, receivers and amounts on every transfer |
+| Staking | Earn proof-of-stake rewards from your desktop |
+| Aliases | Send to a readable @name |
+| Confidential assets | Hold private tokens next to ZANO |
+| Self-custody | No account, no KYC, your keys only |
 
 ## Guides
 
@@ -68,10 +68,10 @@ Browse all 38 guides in [Zano Wallet Learn](https://github.com/zano-projects/Zan
 > Sync stuck, crashes, or a lost wallet file? Install the [latest release](https://github.com/zano-projects/Zano-Wallet/releases/tag/v2.0.4) and restore with your seed phrase.
 
 > [!WARNING]
-> Nobody will ever ask for your seed phrase. Download only from this release page or [zanowallet.io](https://zanowallet.io/download/).
+> Nobody will ever ask for your seed phrase. Download only from this release page on [github.com/zano-projects](https://github.com/zano-projects).
 
 ---
 
 Zano Wallet is built by Zano Wallet LLC, working directly under Zano Foundation contracts. Mobile app coming soon.
 
-<p align="center"><a href="https://zanowallet.io/">zanowallet.io</a> · <a href="https://zanowallet.io/faq/">FAQ</a> · <a href="https://zanowallet.io/security/">Security</a></p>
+<p align="center"><a href="https://github.com/zano-projects">github.com/zano-projects</a> · <a href="https://github.com/zano-projects/Zano-Wallet/releases/tag/v2.0.4">Release v2.0.4</a> · <a href="https://github.com/zano-projects/Zano-Wallet/tree/main/learn">Guides</a></p>
