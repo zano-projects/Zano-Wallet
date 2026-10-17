@@ -3,7 +3,7 @@
 <h1 align="center">How to Install Zano Wallet on Windows 10 and 11</h1>
 
 <p align="center">
-<a href="https://zanowallet.io/"><img src="https://img.shields.io/badge/Website-zanowallet.io-7c5cff?style=for-the-badge" alt="Zano Wallet website"></a>
+<a href="https://github.com/zano-projects"><img src="https://img.shields.io/badge/GitHub-zano--projects-7c5cff?style=for-the-badge&logo=github" alt="Zano Wallet on GitHub"></a>
 <a href="https://github.com/zano-projects/Zano-Wallet/releases/tag/v2.0.4"><img src="https://img.shields.io/badge/Release-v2.0.4-1f2a6b?style=for-the-badge" alt="Zano Wallet v2.0.4 release"></a>
 <a href="https://github.com/zano-projects/Zano-Wallet/tree/main/learn"><img src="https://img.shields.io/badge/Guides-Zano%20Wallet%20Learn-3b2a8f?style=for-the-badge" alt="Zano Wallet guides"></a>
 </p>
@@ -29,7 +29,7 @@ Windows treats any new desktop installer with caution, and the first launch of Z
 4. Start Zano Wallet and wait for the sync bar to reach 100%.
 5. Create a new wallet or restore one from your seed phrase.
 
-Related reading: [Windows Defender Flags the Zano Wallet Installer: What to Do](./windows-defender-false-positive-zano-wallet.md) and the [Zano Wallet download page](https://zanowallet.io/download/).
+Related reading: [Windows Defender Flags the Zano Wallet Installer: What to Do](./windows-defender-false-positive-zano-wallet.md) and the [Zano Wallet download page](https://github.com/zano-projects/Zano-Wallet/tree/main/learn).
 
 ## If that didn't work
 
@@ -37,7 +37,7 @@ If the installer closes instantly, right-click it and choose Run as administrato
 
 ## Prevent it next time
 
-Keep 30 GB or more free on the drive that holds the blockchain, and always install updates from the same release page. More on the website: [Zano Wallet FAQ](https://zanowallet.io/faq/).
+Keep 30 GB or more free on the drive that holds the blockchain, and always install updates from the same release page. More guides: [Zano Wallet FAQ](https://github.com/zano-projects/Zano-Wallet/tree/main/learn).
 
 ## FAQ
 
@@ -66,12 +66,12 @@ The current release, **Zano Wallet v2.0.4**, includes the latest fixes. Download
 
 ## Related guides
 
-| Guide | On the website |
+| Guide | More |
 |---|---|
-| [Windows Defender Flags the Zano Wallet Installer: What to Do](./windows-defender-false-positive-zano-wallet.md) | [Zano Wallet download page](https://zanowallet.io/download/) |
-| [Zano Wallet Sync Stuck at 0% or Not Moving](./zano-wallet-sync-stuck.md) | [Zano Wallet FAQ](https://zanowallet.io/faq/) |
-| [Create a New Zano Wallet Step by Step](./create-new-zano-wallet.md) | [wallet security tips](https://zanowallet.io/security/) |
+| [Windows Defender Flags the Zano Wallet Installer: What to Do](./windows-defender-false-positive-zano-wallet.md) | [Zano Wallet download page](https://github.com/zano-projects/Zano-Wallet/tree/main/learn) |
+| [Zano Wallet Sync Stuck at 0% or Not Moving](./zano-wallet-sync-stuck.md) | [Zano Wallet FAQ](https://github.com/zano-projects/Zano-Wallet/tree/main/learn) |
+| [Create a New Zano Wallet Step by Step](./create-new-zano-wallet.md) | [wallet security tips](https://github.com/zano-projects/Zano-Wallet/tree/main/learn) |
 
 ---
 
-<p align="center"><a href="https://zanowallet.io/">zanowallet.io</a> · <a href="https://github.com/zano-projects/Zano-Wallet/releases/tag/v2.0.4">Release v2.0.4</a> · <a href="https://github.com/zano-projects/Zano-Wallet/tree/main/learn">All guides</a></p>
+<p align="center"><a href="https://github.com/zano-projects">github.com/zano-projects</a> · <a href="https://github.com/zano-projects/Zano-Wallet/releases/tag/v2.0.4">Release v2.0.4</a> · <a href="https://github.com/zano-projects/Zano-Wallet/tree/main/learn">All guides</a></p>
