@@ -3,7 +3,7 @@
 <h1 align="center">How to Receive ZANO in Your Wallet</h1>
 
 <p align="center">
-<a href="https://zanowallet.io/"><img src="https://img.shields.io/badge/Website-zanowallet.io-7c5cff?style=for-the-badge" alt="Zano Wallet website"></a>
+<a href="https://github.com/zano-projects"><img src="https://img.shields.io/badge/GitHub-zano--projects-7c5cff?style=for-the-badge&logo=github" alt="Zano Wallet on GitHub"></a>
 <a href="https://github.com/zano-projects/Zano-Wallet/releases/tag/v2.0.4"><img src="https://img.shields.io/badge/Release-v2.0.4-1f2a6b?style=for-the-badge" alt="Zano Wallet v2.0.4 release"></a>
 <a href="https://github.com/zano-projects/Zano-Wallet/tree/main/learn"><img src="https://img.shields.io/badge/Guides-Zano%20Wallet%20Learn-3b2a8f?style=for-the-badge" alt="Zano Wallet guides"></a>
 </p>
@@ -29,7 +29,7 @@ Zano uses stealth addresses, so each payment lands on a unique one-time address.
 4. Wait for confirmations.
 5. Check your history.
 
-Related reading: [How to Send ZANO Safely](./send-zano.md) and the [Zano aliases](https://zanowallet.io/features/alias/).
+Related reading: [How to Send ZANO Safely](./send-zano.md) and the [Zano aliases](https://github.com/zano-projects/Zano-Wallet/tree/main/learn).
 
 ## If that didn't work
 
@@ -37,7 +37,7 @@ If funds do not appear, confirm the wallet is fully synced. You can also read [R
 
 ## Prevent it next time
 
-Double-check the first and last characters of any pasted address. More on the website: [what is Zano](https://zanowallet.io/what-is-zano/).
+Double-check the first and last characters of any pasted address. More guides: [what is Zano](https://github.com/zano-projects/Zano-Wallet/tree/main/learn).
 
 ## FAQ
 
@@ -66,12 +66,12 @@ The current release, **Zano Wallet v2.0.4**, includes the latest fixes. Download
 
 ## Related guides
 
-| Guide | On the website |
+| Guide | More |
 |---|---|
-| [How to Send ZANO Safely](./send-zano.md) | [Zano aliases](https://zanowallet.io/features/alias/) |
-| [Register a Zano Alias (@name) in Zano Wallet](./register-zano-alias.md) | [what is Zano](https://zanowallet.io/what-is-zano/) |
-| [Zano Transaction Pending or Not Confirmed](./zano-transaction-pending.md) | [download Zano Wallet](https://zanowallet.io/download/) |
+| [How to Send ZANO Safely](./send-zano.md) | [Zano aliases](https://github.com/zano-projects/Zano-Wallet/tree/main/learn) |
+| [Register a Zano Alias (@name) in Zano Wallet](./register-zano-alias.md) | [what is Zano](https://github.com/zano-projects/Zano-Wallet/tree/main/learn) |
+| [Zano Transaction Pending or Not Confirmed](./zano-transaction-pending.md) | [download Zano Wallet](https://github.com/zano-projects/Zano-Wallet/tree/main/learn) |
 
 ---
 
-<p align="center"><a href="https://zanowallet.io/">zanowallet.io</a> · <a href="https://github.com/zano-projects/Zano-Wallet/releases/tag/v2.0.4">Release v2.0.4</a> · <a href="https://github.com/zano-projects/Zano-Wallet/tree/main/learn">All guides</a></p>
+<p align="center"><a href="https://github.com/zano-projects">github.com/zano-projects</a> · <a href="https://github.com/zano-projects/Zano-Wallet/releases/tag/v2.0.4">Release v2.0.4</a> · <a href="https://github.com/zano-projects/Zano-Wallet/tree/main/learn">All guides</a></p>
