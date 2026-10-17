@@ -1,11 +1,11 @@
-<p align="center"><img src="https://raw.githubusercontent.com/zano-projects/Zano-Wallet/main/learn/assets/03-download.webp" alt="Zano Wallet - Zano Wallet Sync Stuck at 0% or Not Moving" width="100%"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/zano-projects/Zano-Wallet/master/learn/assets/03-download.webp" alt="Zano Wallet - Zano Wallet Sync Stuck at 0% or Not Moving" width="100%"></p>
 
 <h1 align="center">Zano Wallet Sync Stuck at 0% or Not Moving</h1>
 
 <p align="center">
 <a href="https://github.com/zano-projects"><img src="https://img.shields.io/badge/GitHub-zano--projects-7c5cff?style=for-the-badge&logo=github" alt="Zano Wallet on GitHub"></a>
 <a href="https://github.com/zano-projects/Zano-Wallet/releases/tag/v2.0.4"><img src="https://img.shields.io/badge/Release-v2.0.4-1f2a6b?style=for-the-badge" alt="Zano Wallet v2.0.4 release"></a>
-<a href="https://github.com/zano-projects/Zano-Wallet/tree/main/learn"><img src="https://img.shields.io/badge/Guides-Zano%20Wallet%20Learn-3b2a8f?style=for-the-badge" alt="Zano Wallet guides"></a>
+<a href="https://github.com/zano-projects/Zano-Wallet/tree/master/learn"><img src="https://img.shields.io/badge/Guides-Zano%20Wallet%20Learn-3b2a8f?style=for-the-badge" alt="Zano Wallet guides"></a>
 </p>
 
 ---
@@ -29,7 +29,7 @@ The wallet must connect to other nodes and download every block. Old versions, b
 4. Stop the computer from sleeping during the first sync.
 5. Leave it running; the first full sync can take hours.
 
-Related reading: [Zano Wallet Filling Up Your Drive: Free Space Safely](./zano-wallet-disk-space-full.md) and the [Zano Wallet troubleshooting FAQ](https://github.com/zano-projects/Zano-Wallet/tree/main/learn).
+Related reading: [Zano Wallet Filling Up Your Drive: Free Space Safely](./zano-wallet-disk-space-full.md) and the [Zano Wallet troubleshooting FAQ](https://github.com/zano-projects/Zano-Wallet/tree/master/learn).
 
 ## If that didn't work
 
@@ -37,7 +37,7 @@ If it is still stuck, close the wallet, move the blockchain data folder aside (n
 
 ## Prevent it next time
 
-Keep the app updated and leave enough free disk space, so the database never stops mid-write. More guides: [get the latest Zano Wallet](https://github.com/zano-projects/Zano-Wallet/tree/main/learn).
+Keep the app updated and leave enough free disk space, so the database never stops mid-write. More guides: [get the latest Zano Wallet](https://github.com/zano-projects/Zano-Wallet/tree/master/learn).
 
 ## FAQ
 
@@ -68,10 +68,10 @@ The current release, **Zano Wallet v2.0.4**, includes the latest fixes. Download
 
 | Guide | More |
 |---|---|
-| [Zano Wallet Filling Up Your Drive: Free Space Safely](./zano-wallet-disk-space-full.md) | [Zano Wallet troubleshooting FAQ](https://github.com/zano-projects/Zano-Wallet/tree/main/learn) |
-| [Zano Wallet Shows a Zero Balance](./zano-wallet-balance-zero.md) | [get the latest Zano Wallet](https://github.com/zano-projects/Zano-Wallet/tree/main/learn) |
-| [How to Update Zano Wallet to the Latest Version](./update-zano-wallet.md) | [how the Zano blockchain works](https://github.com/zano-projects/Zano-Wallet/tree/main/learn) |
+| [Zano Wallet Filling Up Your Drive: Free Space Safely](./zano-wallet-disk-space-full.md) | [Zano Wallet troubleshooting FAQ](https://github.com/zano-projects/Zano-Wallet/tree/master/learn) |
+| [Zano Wallet Shows a Zero Balance](./zano-wallet-balance-zero.md) | [get the latest Zano Wallet](https://github.com/zano-projects/Zano-Wallet/tree/master/learn) |
+| [How to Update Zano Wallet to the Latest Version](./update-zano-wallet.md) | [how the Zano blockchain works](https://github.com/zano-projects/Zano-Wallet/tree/master/learn) |
 
 ---
 
-<p align="center"><a href="https://github.com/zano-projects">github.com/zano-projects</a> · <a href="https://github.com/zano-projects/Zano-Wallet/releases/tag/v2.0.4">Release v2.0.4</a> · <a href="https://github.com/zano-projects/Zano-Wallet/tree/main/learn">All guides</a></p>
+<p align="center"><a href="https://github.com/zano-projects">github.com/zano-projects</a> · <a href="https://github.com/zano-projects/Zano-Wallet/releases/tag/v2.0.4">Release v2.0.4</a> · <a href="https://github.com/zano-projects/Zano-Wallet/tree/master/learn">All guides</a></p>
