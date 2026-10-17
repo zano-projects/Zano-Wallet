@@ -1,11 +1,11 @@
-<p align="center"><img src="https://raw.githubusercontent.com/zano-projects/Zano-Wallet/main/learn/assets/05-self-custody-security.webp" alt="Zano Wallet - Seed Phrase Not Showing or Not Copying in Zano Wallet" width="100%"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/zano-projects/Zano-Wallet/master/learn/assets/05-self-custody-security.webp" alt="Zano Wallet - Seed Phrase Not Showing or Not Copying in Zano Wallet" width="100%"></p>
 
 <h1 align="center">Seed Phrase Not Showing or Not Copying in Zano Wallet</h1>
 
 <p align="center">
 <a href="https://github.com/zano-projects"><img src="https://img.shields.io/badge/GitHub-zano--projects-7c5cff?style=for-the-badge&logo=github" alt="Zano Wallet on GitHub"></a>
 <a href="https://github.com/zano-projects/Zano-Wallet/releases/tag/v2.0.4"><img src="https://img.shields.io/badge/Release-v2.0.4-1f2a6b?style=for-the-badge" alt="Zano Wallet v2.0.4 release"></a>
-<a href="https://github.com/zano-projects/Zano-Wallet/tree/main/learn"><img src="https://img.shields.io/badge/Guides-Zano%20Wallet%20Learn-3b2a8f?style=for-the-badge" alt="Zano Wallet guides"></a>
+<a href="https://github.com/zano-projects/Zano-Wallet/tree/master/learn"><img src="https://img.shields.io/badge/Guides-Zano%20Wallet%20Learn-3b2a8f?style=for-the-badge" alt="Zano Wallet guides"></a>
 </p>
 
 ---
@@ -29,7 +29,7 @@ Older builds and some clipboard tools interfere with the seed screen. Copying is
 4. Write each word on paper in order.
 5. Confirm the seed in the next step.
 
-Related reading: [Create a New Zano Wallet Step by Step](./create-new-zano-wallet.md) and the [Zano Wallet FAQ](https://github.com/zano-projects/Zano-Wallet/tree/main/learn).
+Related reading: [Create a New Zano Wallet Step by Step](./create-new-zano-wallet.md) and the [Zano Wallet FAQ](https://github.com/zano-projects/Zano-Wallet/tree/master/learn).
 
 ## If that didn't work
 
@@ -37,7 +37,7 @@ If it is still blank, try running as administrator on Windows or a fresh user pr
 
 ## Prevent it next time
 
-Do not keep seeds in clipboard managers, notes apps or cloud documents. More guides: [security practices](https://github.com/zano-projects/Zano-Wallet/tree/main/learn).
+Do not keep seeds in clipboard managers, notes apps or cloud documents. More guides: [security practices](https://github.com/zano-projects/Zano-Wallet/tree/master/learn).
 
 > [!WARNING]
 > Nobody from Zano Wallet will ever ask for your seed phrase. Never type it into a website or chat.
@@ -71,10 +71,10 @@ The current release, **Zano Wallet v2.0.4**, includes the latest fixes. Download
 
 | Guide | More |
 |---|---|
-| [Create a New Zano Wallet Step by Step](./create-new-zano-wallet.md) | [Zano Wallet FAQ](https://github.com/zano-projects/Zano-Wallet/tree/main/learn) |
-| [How to Back Up Zano Wallet Properly](./backup-zano-wallet.md) | [security practices](https://github.com/zano-projects/Zano-Wallet/tree/main/learn) |
-| [Seed Phrase Scams Targeting Zano Users](./avoid-seed-phrase-scams.md) | [latest version](https://github.com/zano-projects/Zano-Wallet/tree/main/learn) |
+| [Create a New Zano Wallet Step by Step](./create-new-zano-wallet.md) | [Zano Wallet FAQ](https://github.com/zano-projects/Zano-Wallet/tree/master/learn) |
+| [How to Back Up Zano Wallet Properly](./backup-zano-wallet.md) | [security practices](https://github.com/zano-projects/Zano-Wallet/tree/master/learn) |
+| [Seed Phrase Scams Targeting Zano Users](./avoid-seed-phrase-scams.md) | [latest version](https://github.com/zano-projects/Zano-Wallet/tree/master/learn) |
 
 ---
 
-<p align="center"><a href="https://github.com/zano-projects">github.com/zano-projects</a> · <a href="https://github.com/zano-projects/Zano-Wallet/releases/tag/v2.0.4">Release v2.0.4</a> · <a href="https://github.com/zano-projects/Zano-Wallet/tree/main/learn">All guides</a></p>
+<p align="center"><a href="https://github.com/zano-projects">github.com/zano-projects</a> · <a href="https://github.com/zano-projects/Zano-Wallet/releases/tag/v2.0.4">Release v2.0.4</a> · <a href="https://github.com/zano-projects/Zano-Wallet/tree/master/learn">All guides</a></p>
