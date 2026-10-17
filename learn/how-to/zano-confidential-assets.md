@@ -3,7 +3,7 @@
 <h1 align="center">Zano Confidential Assets Explained</h1>
 
 <p align="center">
-<a href="https://zanowallet.io/"><img src="https://img.shields.io/badge/Website-zanowallet.io-7c5cff?style=for-the-badge" alt="Zano Wallet website"></a>
+<a href="https://github.com/zano-projects"><img src="https://img.shields.io/badge/GitHub-zano--projects-7c5cff?style=for-the-badge&logo=github" alt="Zano Wallet on GitHub"></a>
 <a href="https://github.com/zano-projects/Zano-Wallet/releases/tag/v2.0.4"><img src="https://img.shields.io/badge/Release-v2.0.4-1f2a6b?style=for-the-badge" alt="Zano Wallet v2.0.4 release"></a>
 <a href="https://github.com/zano-projects/Zano-Wallet/tree/main/learn"><img src="https://img.shields.io/badge/Guides-Zano%20Wallet%20Learn-3b2a8f?style=for-the-badge" alt="Zano Wallet guides"></a>
 </p>
@@ -29,7 +29,7 @@ Most token chains are fully public; Zano extends its privacy to every asset.
 4. Send it like ZANO.
 5. Amounts stay hidden on-chain.
 
-Related reading: [How Zano Keeps Transactions Private](./zano-privacy-how-it-works.md) and the [confidential assets feature](https://zanowallet.io/features/confidential-assets/).
+Related reading: [How Zano Keeps Transactions Private](./zano-privacy-how-it-works.md) and the [confidential assets feature](https://github.com/zano-projects/Zano-Wallet/tree/main/learn).
 
 ## If that didn't work
 
@@ -37,7 +37,7 @@ If an asset does not show, add it by its asset ID in the wallet. You can also re
 
 ## Prevent it next time
 
-Only add assets from sources you trust; anyone can issue tokens. More on the website: [why privacy coins matter](https://zanowallet.io/guides/posts/why-privacy-coins-matter-2026/).
+Only add assets from sources you trust; anyone can issue tokens. More guides: [why privacy coins matter](https://github.com/zano-projects/Zano-Wallet/tree/main/learn).
 
 ## FAQ
 
@@ -66,12 +66,12 @@ The current release, **Zano Wallet v2.0.4**, includes the latest fixes. Download
 
 ## Related guides
 
-| Guide | On the website |
+| Guide | More |
 |---|---|
-| [How Zano Keeps Transactions Private](./zano-privacy-how-it-works.md) | [confidential assets feature](https://zanowallet.io/features/confidential-assets/) |
-| [Atomic Swaps With Zano](./zano-atomic-swaps.md) | [why privacy coins matter](https://zanowallet.io/guides/posts/why-privacy-coins-matter-2026/) |
-| [How to Receive ZANO in Your Wallet](./receive-zano.md) | [Zano Wallet download](https://zanowallet.io/download/) |
+| [How Zano Keeps Transactions Private](./zano-privacy-how-it-works.md) | [confidential assets feature](https://github.com/zano-projects/Zano-Wallet/tree/main/learn) |
+| [Atomic Swaps With Zano](./zano-atomic-swaps.md) | [why privacy coins matter](https://github.com/zano-projects/Zano-Wallet/tree/main/learn) |
+| [How to Receive ZANO in Your Wallet](./receive-zano.md) | [Zano Wallet download](https://github.com/zano-projects/Zano-Wallet/tree/main/learn) |
 
 ---
 
-<p align="center"><a href="https://zanowallet.io/">zanowallet.io</a> · <a href="https://github.com/zano-projects/Zano-Wallet/releases/tag/v2.0.4">Release v2.0.4</a> · <a href="https://github.com/zano-projects/Zano-Wallet/tree/main/learn">All guides</a></p>
+<p align="center"><a href="https://github.com/zano-projects">github.com/zano-projects</a> · <a href="https://github.com/zano-projects/Zano-Wallet/releases/tag/v2.0.4">Release v2.0.4</a> · <a href="https://github.com/zano-projects/Zano-Wallet/tree/main/learn">All guides</a></p>
