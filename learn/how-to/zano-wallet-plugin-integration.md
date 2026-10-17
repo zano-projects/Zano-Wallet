@@ -3,7 +3,7 @@
 <h1 align="center">Accept ZANO Payments With zano_plugin</h1>
 
 <p align="center">
-<a href="https://zanowallet.io/"><img src="https://img.shields.io/badge/Website-zanowallet.io-7c5cff?style=for-the-badge" alt="Zano Wallet website"></a>
+<a href="https://github.com/zano-projects"><img src="https://img.shields.io/badge/GitHub-zano--projects-7c5cff?style=for-the-badge&logo=github" alt="Zano Wallet on GitHub"></a>
 <a href="https://github.com/zano-projects/Zano-Wallet/releases/tag/v2.0.4"><img src="https://img.shields.io/badge/Release-v2.0.4-1f2a6b?style=for-the-badge" alt="Zano Wallet v2.0.4 release"></a>
 <a href="https://github.com/zano-projects/Zano-Wallet/tree/main/learn"><img src="https://img.shields.io/badge/Guides-Zano%20Wallet%20Learn-3b2a8f?style=for-the-badge" alt="Zano Wallet guides"></a>
 </p>
@@ -29,7 +29,7 @@ Merchants need payment detection without exposing customer data.
 4. Test with a small payment.
 5. Go live and monitor orders.
 
-Related reading: [Validate a Zano Address Before Sending](./validate-zano-address.md) and the [what is Zano](https://zanowallet.io/what-is-zano/).
+Related reading: [Validate a Zano Address Before Sending](./validate-zano-address.md) and the [what is Zano](https://github.com/zano-projects/Zano-Wallet/tree/main/learn).
 
 ## If that didn't work
 
@@ -37,7 +37,7 @@ If payments do not register, check RPC settings and wallet sync. You can also re
 
 ## Prevent it next time
 
-Keep the merchant wallet backed up and updated. More on the website: [confidential assets](https://zanowallet.io/features/confidential-assets/).
+Keep the merchant wallet backed up and updated. More guides: [confidential assets](https://github.com/zano-projects/Zano-Wallet/tree/main/learn).
 
 ## FAQ
 
@@ -66,12 +66,12 @@ The current release, **Zano Wallet v2.0.4**, includes the latest fixes. Download
 
 ## Related guides
 
-| Guide | On the website |
+| Guide | More |
 |---|---|
-| [Validate a Zano Address Before Sending](./validate-zano-address.md) | [what is Zano](https://zanowallet.io/what-is-zano/) |
-| [How to Receive ZANO in Your Wallet](./receive-zano.md) | [confidential assets](https://zanowallet.io/features/confidential-assets/) |
-| [Zano Confidential Assets Explained](./zano-confidential-assets.md) | [download Zano Wallet](https://zanowallet.io/download/) |
+| [Validate a Zano Address Before Sending](./validate-zano-address.md) | [what is Zano](https://github.com/zano-projects/Zano-Wallet/tree/main/learn) |
+| [How to Receive ZANO in Your Wallet](./receive-zano.md) | [confidential assets](https://github.com/zano-projects/Zano-Wallet/tree/main/learn) |
+| [Zano Confidential Assets Explained](./zano-confidential-assets.md) | [download Zano Wallet](https://github.com/zano-projects/Zano-Wallet/tree/main/learn) |
 
 ---
 
-<p align="center"><a href="https://zanowallet.io/">zanowallet.io</a> · <a href="https://github.com/zano-projects/Zano-Wallet/releases/tag/v2.0.4">Release v2.0.4</a> · <a href="https://github.com/zano-projects/Zano-Wallet/tree/main/learn">All guides</a></p>
+<p align="center"><a href="https://github.com/zano-projects">github.com/zano-projects</a> · <a href="https://github.com/zano-projects/Zano-Wallet/releases/tag/v2.0.4">Release v2.0.4</a> · <a href="https://github.com/zano-projects/Zano-Wallet/tree/main/learn">All guides</a></p>
