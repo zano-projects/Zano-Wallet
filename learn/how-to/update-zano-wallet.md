@@ -3,7 +3,7 @@
 <h1 align="center">How to Update Zano Wallet to the Latest Version</h1>
 
 <p align="center">
-<a href="https://zanowallet.io/"><img src="https://img.shields.io/badge/Website-zanowallet.io-7c5cff?style=for-the-badge" alt="Zano Wallet website"></a>
+<a href="https://github.com/zano-projects"><img src="https://img.shields.io/badge/GitHub-zano--projects-7c5cff?style=for-the-badge&logo=github" alt="Zano Wallet on GitHub"></a>
 <a href="https://github.com/zano-projects/Zano-Wallet/releases/tag/v2.0.4"><img src="https://img.shields.io/badge/Release-v2.0.4-1f2a6b?style=for-the-badge" alt="Zano Wallet v2.0.4 release"></a>
 <a href="https://github.com/zano-projects/Zano-Wallet/tree/main/learn"><img src="https://img.shields.io/badge/Guides-Zano%20Wallet%20Learn-3b2a8f?style=for-the-badge" alt="Zano Wallet guides"></a>
 </p>
@@ -29,7 +29,7 @@ Network upgrades and fixes arrive in new releases; old versions can stop syncing
 4. Compare its SHA-256 with the release table.
 5. Install and reopen your wallet.
 
-Related reading: [Zano Wallet Sync Stuck at 0% or Not Moving](./zano-wallet-sync-stuck.md) and the [latest Zano Wallet download](https://zanowallet.io/download/).
+Related reading: [Zano Wallet Sync Stuck at 0% or Not Moving](./zano-wallet-sync-stuck.md) and the [latest Zano Wallet download](https://github.com/zano-projects/Zano-Wallet/tree/main/learn).
 
 ## If that didn't work
 
@@ -37,7 +37,7 @@ If the new version will not open your file, restore from seed. You can also read
 
 ## Prevent it next time
 
-Check the release page regularly and avoid update links sent by strangers. More on the website: [Zano Wallet review 2026](https://zanowallet.io/guides/posts/zano-wallet-review-2026/).
+Check the release page regularly and avoid update links sent by strangers. More guides: [Zano Wallet review 2026](https://github.com/zano-projects/Zano-Wallet/tree/main/learn).
 
 ## FAQ
 
@@ -66,12 +66,12 @@ The current release, **Zano Wallet v2.0.4**, includes the latest fixes. Download
 
 ## Related guides
 
-| Guide | On the website |
+| Guide | More |
 |---|---|
-| [Zano Wallet Sync Stuck at 0% or Not Moving](./zano-wallet-sync-stuck.md) | [latest Zano Wallet download](https://zanowallet.io/download/) |
-| [Windows Defender Flags the Zano Wallet Installer: What to Do](./windows-defender-false-positive-zano-wallet.md) | [Zano Wallet review 2026](https://zanowallet.io/guides/posts/zano-wallet-review-2026/) |
-| [Avoid Fake Zano Wallet Downloads](./avoid-fake-zano-wallet-sites.md) | [security](https://zanowallet.io/security/) |
+| [Zano Wallet Sync Stuck at 0% or Not Moving](./zano-wallet-sync-stuck.md) | [latest Zano Wallet download](https://github.com/zano-projects/Zano-Wallet/tree/main/learn) |
+| [Windows Defender Flags the Zano Wallet Installer: What to Do](./windows-defender-false-positive-zano-wallet.md) | [Zano Wallet review 2026](https://github.com/zano-projects/Zano-Wallet/tree/main/learn) |
+| [Avoid Fake Zano Wallet Downloads](./avoid-fake-zano-wallet-sites.md) | [security](https://github.com/zano-projects/Zano-Wallet/tree/main/learn) |
 
 ---
 
-<p align="center"><a href="https://zanowallet.io/">zanowallet.io</a> · <a href="https://github.com/zano-projects/Zano-Wallet/releases/tag/v2.0.4">Release v2.0.4</a> · <a href="https://github.com/zano-projects/Zano-Wallet/tree/main/learn">All guides</a></p>
+<p align="center"><a href="https://github.com/zano-projects">github.com/zano-projects</a> · <a href="https://github.com/zano-projects/Zano-Wallet/releases/tag/v2.0.4">Release v2.0.4</a> · <a href="https://github.com/zano-projects/Zano-Wallet/tree/main/learn">All guides</a></p>
