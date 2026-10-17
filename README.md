@@ -49,7 +49,7 @@ Check on Windows: `certutil -hashfile <file> SHA256` · macOS: `shasum -a 256 <f
 | Confidential assets | Hold private tokens next to ZANO |
 | Self-custody | No account, no KYC, your keys only |
 
-## Guides
+## Guides.
 
 | Guide | Topic |
 |---|---|
