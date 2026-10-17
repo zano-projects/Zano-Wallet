@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/zano-projects/Zano-Wallet/main/learn/assets/01-zano-wallet-brand.webp" alt="Zano Wallet - desktop privacy wallet for Zano" width="100%"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/zano-projects/Zano-Wallet/master/learn/assets/01-zano-wallet-brand.webp" alt="Zano Wallet - desktop privacy wallet for Zano" width="100%"></p>
 
 <h1 align="center">Zano Wallet</h1>
 <p align="center"><b>The desktop privacy wallet for Zano: private payments, staking, aliases and confidential assets.</b></p>
@@ -6,7 +6,7 @@
 <p align="center">
 <a href="https://github.com/zano-projects"><img src="https://img.shields.io/badge/GitHub-zano--projects-7c5cff?style=for-the-badge&logo=github" alt="Zano Wallet on GitHub"></a>
 <a href="https://github.com/zano-projects/Zano-Wallet/releases/tag/v2.0.4"><img src="https://img.shields.io/badge/Release-v2.0.4-1f2a6b?style=for-the-badge" alt="Zano Wallet v2.0.4 release"></a>
-<a href="https://github.com/zano-projects/Zano-Wallet/tree/main/learn"><img src="https://img.shields.io/badge/Guides-Zano%20Wallet%20Learn-3b2a8f?style=for-the-badge" alt="Zano Wallet guides"></a>
+<a href="https://github.com/zano-projects/Zano-Wallet/tree/master/learn"><img src="https://img.shields.io/badge/Guides-Zano%20Wallet%20Learn-3b2a8f?style=for-the-badge" alt="Zano Wallet guides"></a>
 </p>
 
 ---
@@ -53,16 +53,16 @@ Check on Windows: `certutil -hashfile <file> SHA256` · macOS: `shasum -a 256 <f
 
 | Guide | Topic |
 |---|---|
-| [How to Install Zano Wallet on Windows 10 and 11](https://github.com/zano-projects/Zano-Wallet/blob/main/learn/how-to/install-zano-wallet-windows.md) | Windows setup |
-| [How to Install Zano Wallet on macOS](https://github.com/zano-projects/Zano-Wallet/blob/main/learn/how-to/install-zano-wallet-macos.md) | macOS setup |
-| [How to Install Zano Wallet on Linux](https://github.com/zano-projects/Zano-Wallet/blob/main/learn/how-to/install-zano-wallet-linux.md) | Linux setup |
-| [Zano Wallet Sync Stuck at 0% or Not Moving](https://github.com/zano-projects/Zano-Wallet/blob/main/learn/how-to/zano-wallet-sync-stuck.md) | Sync problems |
-| [Restore a Zano Wallet From Your Seed Phrase](https://github.com/zano-projects/Zano-Wallet/blob/main/learn/how-to/restore-zano-wallet-from-seed.md) | Recovery |
-| [How to Stake ZANO in the Desktop Wallet](https://github.com/zano-projects/Zano-Wallet/blob/main/learn/how-to/stake-zano-in-wallet.md) | Staking |
-| [Zano Confidential Assets Explained](https://github.com/zano-projects/Zano-Wallet/blob/main/learn/how-to/zano-confidential-assets.md) | Assets |
-| [Avoid Fake Zano Wallet Downloads](https://github.com/zano-projects/Zano-Wallet/blob/main/learn/how-to/avoid-fake-zano-wallet-sites.md) | Safety |
+| [How to Install Zano Wallet on Windows 10 and 11](https://github.com/zano-projects/Zano-Wallet/blob/master/learn/how-to/install-zano-wallet-windows.md) | Windows setup |
+| [How to Install Zano Wallet on macOS](https://github.com/zano-projects/Zano-Wallet/blob/master/learn/how-to/install-zano-wallet-macos.md) | macOS setup |
+| [How to Install Zano Wallet on Linux](https://github.com/zano-projects/Zano-Wallet/blob/master/learn/how-to/install-zano-wallet-linux.md) | Linux setup |
+| [Zano Wallet Sync Stuck at 0% or Not Moving](https://github.com/zano-projects/Zano-Wallet/blob/master/learn/how-to/zano-wallet-sync-stuck.md) | Sync problems |
+| [Restore a Zano Wallet From Your Seed Phrase](https://github.com/zano-projects/Zano-Wallet/blob/master/learn/how-to/restore-zano-wallet-from-seed.md) | Recovery |
+| [How to Stake ZANO in the Desktop Wallet](https://github.com/zano-projects/Zano-Wallet/blob/master/learn/how-to/stake-zano-in-wallet.md) | Staking |
+| [Zano Confidential Assets Explained](https://github.com/zano-projects/Zano-Wallet/blob/master/learn/how-to/zano-confidential-assets.md) | Assets |
+| [Avoid Fake Zano Wallet Downloads](https://github.com/zano-projects/Zano-Wallet/blob/master/learn/how-to/avoid-fake-zano-wallet-sites.md) | Safety |
 
-Browse all 38 guides in [Zano Wallet Learn](https://github.com/zano-projects/Zano-Wallet/tree/main/learn).
+Browse all 38 guides in [Zano Wallet Learn](https://github.com/zano-projects/Zano-Wallet/tree/master/learn).
 
 > [!TIP]
 > Sync stuck, crashes, or a lost wallet file? Install the [latest release](https://github.com/zano-projects/Zano-Wallet/releases/tag/v2.0.4) and restore with your seed phrase.
@@ -74,4 +74,4 @@ Browse all 38 guides in [Zano Wallet Learn](https://github.com/zano-projects/Zan
 
 Zano Wallet is built by Zano Wallet LLC, working directly under Zano Foundation contracts. Mobile app coming soon.
 
-<p align="center"><a href="https://github.com/zano-projects">github.com/zano-projects</a> · <a href="https://github.com/zano-projects/Zano-Wallet/releases/tag/v2.0.4">Release v2.0.4</a> · <a href="https://github.com/zano-projects/Zano-Wallet/tree/main/learn">Guides</a></p>
+<p align="center"><a href="https://github.com/zano-projects">github.com/zano-projects</a> · <a href="https://github.com/zano-projects/Zano-Wallet/releases/tag/v2.0.4">Release v2.0.4</a> · <a href="https://github.com/zano-projects/Zano-Wallet/tree/master/learn">Guides</a></p>
